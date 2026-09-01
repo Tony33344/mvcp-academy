@@ -1,0 +1,476 @@
+[
+ {
+  "id": "odbor-svet-komisija",
+  "title": "Odbor za ČP vs. Svet za ČP vs. Komisija za ČP",
+  "rows": [
+   [
+    "",
+    "Odbor za ČP",
+    "Svet za ČP",
+    "Komisija za ČP (1946–2006)"
+   ],
+   [
+    "Podlaga",
+    "MPDPP čl. 28",
+    "GA Res 60/251 (2006)",
+    "ECOSOC (1946)"
+   ],
+   [
+    "Tip",
+    "treaty-based",
+    "charter-based",
+    "charter-based"
+   ],
+   [
+    "Člani",
+    "18 neodvisnih strokovnjakov",
+    "47 držav (regionalno)",
+    "države (tudi kršiteljice)"
+   ],
+   [
+    "Ključni postopek",
+    "poročila + priporočila; individualne po 1. OP",
+    "UPR, posebni postopki, complaint procedure",
+    "politizirana → reforma"
+   ],
+   [
+    "Velja za",
+    "samo pogodbenice",
+    "vse članice OZN",
+    "vse"
+   ]
+  ]
+ },
+ {
+  "id": "mpdpp-mpeskp",
+  "title": "MPDPP vs. MPESKP",
+  "rows": [
+   [
+    "",
+    "MPDPP",
+    "MPESKP"
+   ],
+   [
+    "Pravice",
+    "civilno-politične (1. gen.)",
+    "ekonomske-socialne-kulturne (2. gen.)"
+   ],
+   [
+    "Takojšnje/progresivno",
+    "takojšnje",
+    "progresivna realizacija (čl. 2(1)) + minimalno jedro"
+   ],
+   [
+    "Nadzor",
+    "Odbor za ČP (18)",
+    "Odbor za ESKP (1985, ECOSOC)"
+   ],
+   [
+    "Pritožbe",
+    "1. OP (1966/76)",
+    "OP 2008"
+   ]
+  ]
+ },
+ {
+  "id": "begunec-migrant",
+  "title": "Begunec vs. migrant",
+  "rows": [
+   [
+    "",
+    "Begunec",
+    "Migrant"
+   ],
+   [
+    "Razlog",
+    "preganjanje (5 razlogov: rasa, vera, narodnost, mnenje, socialna skupina)",
+    "ekonomski/socialni"
+   ],
+   [
+    "Konvencija",
+    "1951 + Protokol 1967",
+    "ICRMW 1990"
+   ],
+   [
+    "Ključna zaščita",
+    "non-refoulement (čl. 33)",
+    "čl. 2(1) definicija; nizka ratifikacija"
+   ]
+  ]
+ },
+ {
+  "id": "cat-opcat",
+  "title": "CAT vs. OPCAT",
+  "rows": [
+   [
+    "",
+    "CAT",
+    "OPCAT"
+   ],
+   [
+    "Fokus",
+    "definicija + obveznosti",
+    "preventiva (obiski)"
+   ],
+   [
+    "Telesa",
+    "Odbor proti mučenju",
+    "SPT + NPM"
+   ]
+  ]
+ },
+ {
+  "id": "ekcp-esl",
+  "title": "EKČP vs. ESL",
+  "rows": [
+   [
+    "",
+    "EKČP",
+    "ESL"
+   ],
+   [
+    "Pravice",
+    "civilno-politične",
+    "ekonomske-socialne"
+   ],
+   [
+    "Nadzor",
+    "ESČP (sodba zavezujoča, čl. 46)",
+    "Odbor strokovnjakov + Odbor ministrov (priporočilo)"
+   ],
+   [
+    "Pritožbe",
+    "individualne (čl. 34)",
+    "kolektivne (sindikati, NGO)"
+   ]
+  ]
+ },
+ {
+  "id": "postopki",
+  "title": "Postopki — ne zamešaj",
+  "rows": [
+   [
+    "Postopek",
+    "Kdo začne",
+    "Pogoj",
+    "Rezultat"
+   ],
+   [
+    "Poročanje države",
+    "država pogodbenica",
+    "periodična obveznost",
+    "sklepne ugotovitve"
+   ],
+   [
+    "Individualna komunikacija",
+    "posameznik/skupina",
+    "pristojnost + izčrpanje domačih sredstev",
+    "stališča/priporočila"
+   ],
+   [
+    "Meddržavna komunikacija",
+    "država proti državi",
+    "sprejeta pristojnost",
+    "poravnava/stališče/sodba"
+   ],
+   [
+    "Preiskava",
+    "odbor",
+    "hude/sistematične kršitve + pristojnost",
+    "zaupna preiskava + priporočila"
+   ],
+   [
+    "UPR",
+    "druge države (Svet)",
+    "vse članice OZN",
+    "priporočila: sprejme ali zabeleži"
+   ],
+   [
+    "Individualna pritožba ESČP",
+    "posameznik/NGO",
+    "žrtev + jurisdikcija + domača sredstva",
+    "zavezujoča sodba"
+   ],
+   [
+    "Kolektivna pritožba ESL",
+    "organizacije",
+    "država sprejela sistem",
+    "odločitev + priporočilo"
+   ]
+  ]
+ },
+ {
+  "id": "narava-pravic",
+  "title": "Absolutne vs. kvalificirane pravice",
+  "rows": [
+   [
+    "",
+    "Absolutne",
+    "Kvalificirane"
+   ],
+   [
+    "Primeri",
+    "mučenje (EKČP 3, CAT), forum internum",
+    "izražanje 10(2), veroizpoved externum 9(2), zasebno življenje 8, zborovanje 11"
+   ],
+   [
+    "Test",
+    "ni omejitev",
+    "zakonita + legitimen cilj + nujna v demokratični družbi (+ sorazmernost, margin of appreciation)"
+   ]
+  ]
+ },
+ {
+  "id": "generacije",
+  "title": "3 generacije ČP",
+  "rows": [
+   [
+    "Generacija",
+    "Pravice",
+    "Dokument"
+   ],
+   [
+    "1. civilno-politične",
+    "življenje, mučenje, izražanje, veroizpoved",
+    "MPDPP"
+   ],
+   [
+    "2. ekonomske-socialne-kulturne",
+    "delo, zdravstvo, izobraževanje",
+    "MPESKP"
+   ],
+   [
+    "3. solidarnostne",
+    "razvoj, okolje, mir",
+    "Deklaracije (pogosto nezavezujoče)"
+   ]
+  ]
+ },
+ {
+  "id": "regionalni-sistemi",
+  "title": "Regionalni sistemi",
+  "rows": [
+   [
+    "Regija",
+    "Dokument",
+    "Nadzor"
+   ],
+   [
+    "Evropa",
+    "EKČP (1950/53)",
+    "ESČP (zavezujoče sodbe)"
+   ],
+   [
+    "Evropa (socialne)",
+    "ESL",
+    "Evropski odbor + Odbor ministrov"
+   ],
+   [
+    "Ameriki",
+    "Ameriška konvencija (1969/78)",
+    "Medameriško sodišče/komisija"
+   ],
+   [
+    "Afrika",
+    "Afriška listina (1981/86)",
+    "Afriška komisija/sodišče"
+   ],
+   [
+    "Arabske države",
+    "Arabska listina (1994; 2004/08)",
+    "Arabska komisija"
+   ],
+   [
+    "Azija",
+    "ni listine",
+    "— (azijske vrednote — Sen)"
+   ]
+  ]
+ },
+ {
+  "id": "nadzorni-mehanizmi",
+  "title": "2 vrsti nadzornih mehanizmov",
+  "rows": [
+   [
+    "",
+    "Pogodbeni (treaty-based)",
+    "Splošni (charter-based)"
+   ],
+   [
+    "Podlaga",
+    "pogodba (npr. MPDPP čl. 28)",
+    "UL OZN / GA Res 60/251"
+   ],
+   [
+    "Velja za",
+    "samo pogodbenice",
+    "vse članice OZN"
+   ],
+   [
+    "Primeri",
+    "Odbor za ČP (18), CESCR, CAT Odbor",
+    "Komisija (1946–2006) → Svet za ČP (2006, 47), OHCHR"
+   ],
+   [
+    "Rezultat",
+    "priporočila (sprejme/delno/zavrne)",
+    "UPR priporočila (neobvezna)"
+   ]
+  ]
+ },
+ {
+  "id": "iccp-icescr-nadzor",
+  "title": "Nadzor po paktih",
+  "rows": [
+   [
+    "",
+    "MPDPP",
+    "MPESKP"
+   ],
+   [
+    "Telo",
+    "Odbor za ČP (čl. 28)",
+    "Odbor za ESKP (1985)"
+   ],
+   [
+    "Poročila",
+    "čl. 40",
+    "čl. 16–17 (prek ECOSOC)"
+   ],
+   [
+    "Individualne",
+    "1. OP",
+    "OP 2008"
+   ],
+   [
+    "Meddržavne",
+    "čl. 41",
+    "OP 2008"
+   ]
+  ]
+ },
+ {
+  "id": "okolje-razvoj",
+  "title": "Okolje vs. razvoj",
+  "rows": [
+   [
+    "",
+    "Okolje",
+    "Razvoj"
+   ],
+   [
+    "Ključni dokument",
+    "A/RES/76/300 (2022); Stockholm 1972",
+    "Deklaracija 1986"
+   ],
+   [
+    "Pravna narava",
+    "priznana (GS OZN)",
+    "nezavezujoča deklaracija"
+   ],
+   [
+    "Nadzor",
+    "Svet za ČP; sodišča posredno",
+    "brez posebnega telesa"
+   ]
+  ]
+ },
+ {
+  "id": "forum-internum-externum",
+  "title": "Veroizpoved: internum vs. externum",
+  "rows": [
+   [
+    "",
+    "Forum internum",
+    "Forum externum"
+   ],
+   [
+    "Kaj",
+    "notranje prepričanje",
+    "manifestiranje (čaščenje, obredi, izražanje)"
+   ],
+   [
+    "Narava",
+    "absolutno",
+    "omejljivo (9(2): zakonito, javna varnost/red/zdravje/morala, pravice drugih)"
+   ]
+  ]
+ },
+ {
+  "id": "genocid-zlocin",
+  "title": "Genocid vs. zločin proti človeškosti",
+  "rows": [
+   [
+    "",
+    "Genocid",
+    "Zločin proti človeškosti"
+   ],
+   [
+    "Namere",
+    "dolus specialis (uničiti skupino)",
+    "ni posebne namere do skupine"
+   ],
+   [
+    "Skupine",
+    "4 zaščitene (rasna, verska, etnična, nacionalna)",
+    "širše (tudi civilno prebivalstvo)"
+   ],
+   [
+    "Vir",
+    "Konvencija 1948 čl. II",
+    "Rimski statut čl. 7; ICPED čl. 5"
+   ]
+  ]
+ },
+ {
+  "id": "pritozbe-pogodbe",
+  "title": "Individualne pritožbe — kje so možne",
+  "rows": [
+   [
+    "Pogodba/protokol",
+    "Instrument",
+    "Opomba"
+   ],
+   [
+    "MPDPP",
+    "1. OP (1966/76)",
+    "čl. 41 = meddržavne"
+   ],
+   [
+    "CAT",
+    "čl. 22 (izjava države)",
+    "čl. 21 meddržavne; čl. 20 preiskave"
+   ],
+   [
+    "CEDAW",
+    "OP 1999",
+    "+ preiskave"
+   ],
+   [
+    "MPESKP",
+    "OP 2008",
+    "+ meddržavne + preiskave"
+   ],
+   [
+    "CRC",
+    "3. OP (2011)",
+    "+ P2/P3 vsebinska"
+   ],
+   [
+    "CRPD",
+    "OP",
+    "+ preiskave"
+   ],
+   [
+    "ICPED",
+    "čl. 31 (izjava države)",
+    "+ čl. 32 meddržavne, čl. 33 preiskave"
+   ],
+   [
+    "EKČP",
+    "čl. 34 (posamezniki, NGO, skupine)",
+    "sodba zavezujoča čl. 46"
+   ]
+  ]
+ }
+]

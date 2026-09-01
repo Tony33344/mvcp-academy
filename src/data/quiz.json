@@ -1,0 +1,503 @@
+[
+ {
+  "id": "q01",
+  "type": "short",
+  "prompt": "Ali je za vse države običaj enak kot člen? (persistent objector, jus cogens, ICJ 38(1)(b))",
+  "points": 2,
+  "topics": [
+   "obicaj"
+  ],
+  "answerOutline": [
+   "običaj = state practice + opinio juris (ICJ Statut 38(1)(b))",
+   "zavezuje vse države; izjema: persistent objector",
+   "jus cogens (mučenje, genocid) — brez izjem",
+   "člen zavezuje samo pogodbenice"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q02",
+  "type": "short",
+  "prompt": "Kaj je bil cilj varstva manjšin v okviru DN?",
+  "points": 2,
+  "topics": [
+   "zgodovina",
+   "manjsine"
+  ],
+  "answerOutline": [
+   "mir, stabilnost, varnost novih mej po 1. sv. vojni",
+   "ne humanitarne vzgibe",
+   "diskriminatoren sistem (zmagovalke izključene)",
+   "nadzor pri DN"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q03",
+  "type": "short",
+  "prompt": "Zakaj je mednarodni režim večnivojski? Kateri so nivoji?",
+  "points": 2,
+  "topics": [
+   "rezim"
+  ],
+  "answerOutline": [
+   "nobena raven sama ne zadostuje",
+   "globalna (OZN) → regionalna (SE, OAD, AU, arabska) → subregionalna (EU) → bilateralna → nacionalna → lokalna"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q04",
+  "type": "short",
+  "prompt": "Vincent: 5 elementov pravice — pojasni vsakega in poveži z varstvom ČP",
+  "points": 6,
+  "topics": [
+   "koncept"
+  ],
+  "answerOutline": [
+   "subjekt (individualne/kolektivne)",
+   "objekt (do/pred)",
+   "uveljavljanje (paradoks posesti)",
+   "nosilec dolžnosti (država; Shue: 3 dolžnosti)",
+   "utemeljitev",
+   "uporaba na primeru"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q05",
+  "type": "short",
+  "prompt": "Načela režima varstva ČP",
+  "points": 2,
+  "topics": [
+   "koncept"
+  ],
+  "answerOutline": [
+   "univerzalnost/splošnost",
+   "neodtujljivost",
+   "nedeljivost (Dunaj 1993)",
+   "soodvisnost",
+   "nediskriminacija"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q06",
+  "type": "short",
+  "prompt": "Nastanek OZN in ČP v UL OZN",
+  "points": 2,
+  "topics": [
+   "zgodovina"
+  ],
+  "answerOutline": [
+   "»nikoli več« — holokavst, nacizem, fašizem",
+   "ČP = sestavni del miru in varnosti",
+   "UL čl. 1(3): razvijati + spodbujati",
+   "ni seznama ČP v UL"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q07",
+  "type": "short",
+  "prompt": "2 vrsti nadzornih mehanizmov + primeri",
+  "points": 4,
+  "topics": [
+   "nadzor"
+  ],
+  "answerOutline": [
+   "pogodbeni (treaty-based): Odbor za ČP (18 strokovnjakov), CESCR, CAT Odbor — samo pogodbenice",
+   "splošni (charter-based): Komisija (1946–2006) → Svet za ČP (2006, 47 držav), OHCHR — vse članice",
+   "rezultat: priporočila (sprejme/delno/zavrne)"
+  ],
+  "provenance": "vsi izpiti",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q08",
+  "type": "short",
+  "prompt": "Azijske vrednote — Sen članek",
+  "points": 4,
+  "topics": [
+   "regionalni"
+  ],
+  "answerOutline": [
+   "kulturni relativizem kot izgovor avtoritarnih režimov",
+   "Sen: univerzalnost združljiva z azijskimi tradicijami",
+   "Azija: ni regionalne listine ČP",
+   "Jenco 2013, Lind 2009"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q09",
+  "type": "short",
+  "prompt": "ESČP: koliko sodnikov, mandat, volitve, naloge",
+  "points": 4,
+  "topics": [
+   "regionalni"
+  ],
+  "answerOutline": [
+   "št. sodnikov = št. pogodbenic EKČP",
+   "mandat 9 let, brez ponovne izvolitve (P14 čl. 23)",
+   "izbira: Parlamentarna skupščina SE",
+   "formacije: posamezni sodnik/odbori(3)/senati(7)/Veliki senat(17)",
+   "naloge: individualne + meddržavne zadeve; sodba zavezujoča (čl. 46)"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q10",
+  "type": "short",
+  "prompt": "Generacije/mreže ratifikacij — 3 ključne spremembe",
+  "points": 3,
+  "topics": [
+   "ratifikacije"
+  ],
+  "answerOutline": [
+   "15 let pred koncem HV: ozek krog, ZDA nič",
+   "ob koncu: širitev (+10 držav), Afrika/Azija začenjajo",
+   "15 let po: vse vsaj 1 pogodba; bivše komunistične množično ratificirajo"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q11",
+  "type": "short",
+  "prompt": "Prepoved mučenja: A) kdaj prvič B) najnatančnejša definicija C) kam pritožba",
+  "points": 4,
+  "topics": [
+   "mucenje"
+  ],
+  "answerOutline": [
+   "A) Ženevske konvencije (vojni ujetniki)",
+   "B) CAT čl. 1 (namerna huda bolečina + namen + uradna oseba)",
+   "C) ESČP / Odbor proti mučenju (čl. 22); ICJ za državne spore (čl. 30)",
+   "jus cogens; čl. 2 absolutnost; čl. 3 non-refoulement"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q12",
+  "type": "short",
+  "prompt": "Begunci in migranti: razlika + kje to piše + člena",
+  "points": 2,
+  "topics": [
+   "begunci",
+   "migranti"
+  ],
+  "answerOutline": [
+   "begunec: utemeljen strah pred preganjanjem (5 razlogov) — Konvencija 1951 čl. 1A(2)",
+   "migrant: ekonomski/socialni razlogi — ICRMW 1990 čl. 2(1)",
+   "non-refoulement: čl. 33 begunci; CAT čl. 3"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q13",
+  "type": "short",
+  "prompt": "Ekonomske in socialne pravice: 2 najslabše implementirana člena + primeri",
+  "points": 4,
+  "topics": [
+   "eskp"
+  ],
+  "answerOutline": [
+   "MPESKP: progresivna realizacija (čl. 2(1)) + minimalno jedro",
+   "kandidati: stanovanje (čl. 11 — brezdomstvo), zdravstvo (čl. 12 — dostop), hrana",
+   "primeri: brezdomstvo v EU, dostop do zdravstva v konfliktih (Jemen, Sudan)"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q14",
+  "type": "short",
+  "prompt": "Okolje: kdaj 1. prepoznana kot ČP, kaj je onemogočalo hitrejši sprejem",
+  "points": 4,
+  "topics": [
+   "okolje"
+  ],
+  "answerOutline": [
+   "Stockholmska deklaracija 1972 (rojstvo; UNEP)",
+   "pred 1972: ni omembe v SDČP/paktih/EKČP",
+   "onemogočalo: suverenost nad viri, razvojne prioritete Juga, nova kategorija",
+   "razvoj: Brundtland 1987 → Aarhuška 1998 → A/RES/76/300 (2022)"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q15",
+  "type": "short",
+  "prompt": "Genocid: Lemkin, genos+cide, Gaza — pomanjkljivosti konvencije",
+  "points": 4,
+  "topics": [
+   "genocid"
+  ],
+  "answerOutline": [
+   "Lemkin 1944: genos (grško) + cide (latinsko)",
+   "čl. II: dolus specialis + 4 skupine + 5 dejanj",
+   "Gaza: dokaz namere, enforcement, politika, ozke skupine",
+   "čl. IX ICJ"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q16",
+  "type": "short",
+  "prompt": "Svoboda izražanja: kaj je, negativni/pozitivni aspekt, mediji/AI",
+  "points": 4,
+  "topics": [
+   "izrazanje"
+  ],
+  "answerOutline": [
+   "SDČP 19; MPDPP 19; EKČP 10",
+   "Milton: iskanje, prejemanje, razširjanje",
+   "negativni (od vmešavanja) vs. pozitivni (država zagotavlja pogoje)",
+   "omejitve 10(2): zakonita + legitimen cilj + nujna v demokratični družbi",
+   "AI: algoritmi, dezinformacije, pluralizem"
+  ],
+  "provenance": "1. rok 2025 + 1. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q17",
+  "type": "short",
+  "prompt": "Razlika med pristojnostmi: Odbor za ČP, Svet za ČP, Komisija za ČP",
+  "points": 4,
+  "topics": [
+   "nadzor"
+  ],
+  "answerOutline": [
+   "Odbor: treaty-based, 18 strokovnjakov, samo pogodbenice",
+   "Svet: charter-based, 47 držav, UPR + posebni postopki",
+   "Komisija: 1946–2006, politizirana → reforma"
+  ],
+  "provenance": "2. rok 2026 + banka",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q18",
+  "type": "short",
+  "prompt": "Individualne komunikacije — v katerih pogodbah so možne?",
+  "points": 4,
+  "topics": [
+   "nadzor"
+  ],
+  "answerOutline": [
+   "1. OP MPDPP; OP CEDAW 1999; OP MPESKP 2008; 3. OP CRC 2011; OP CRPD",
+   "CAT čl. 22; ICPED čl. 31 (izjava države)",
+   "pogoji: izčrpanje domačih sredstev, ne anonimno",
+   "2 načina: opcijski protokol ali člen konvencije"
+  ],
+  "provenance": "2. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q19",
+  "type": "short",
+  "prompt": "Ukrajina: 2 najbolj kršeni normi + na katero doktrino se navezujeta",
+  "points": 4,
+  "topics": [
+   "aktualno",
+   "zivljenje",
+   "mucenje"
+  ],
+  "answerOutline": [
+   "pravica do življenja (MPDPP čl. 6 / EKČP čl. 2)",
+   "prepoved mučenja (čl. 7 / CAT) + prisilna izginotja (ICPED)",
+   "humanitarno pravo (Ženevske konvencije)"
+  ],
+  "provenance": "2. rok 2026",
+  "officialStatus": "pastRecall",
+  "mcq": null
+ },
+ {
+  "id": "q20",
+  "type": "short",
+  "prompt": "UPR: potek + ocena (dobro/slabo)",
+  "points": 4,
+  "topics": [
+   "nadzor"
+  ],
+  "answerOutline": [
+   "vsakih 4–4,5 let; poročilo države + shadow reports + poročila OZN",
+   "delovna skupina + priporočila držav članic",
+   "dobro: vse pravice, tudi nepogodbenice",
+   "slabo: priporočila neobvezna, politizacija"
+  ],
+  "provenance": "banka (mvčp-vprašanja) + Seminar 3",
+  "officialStatus": "professor",
+  "mcq": null
+ },
+ {
+  "id": "q21",
+  "type": "short",
+  "prompt": "Pojasnite razliko med Komisijo za ČP, Odborom za ČP in Svetom za ČP",
+  "points": 4,
+  "topics": [
+   "nadzor"
+  ],
+  "answerOutline": [
+   "Komisija: ECOSOC 1946, politizirana → reforma 2006",
+   "Svet: 47 držav, UPR, Ženeva",
+   "Odbor: treaty-based (MPDPP čl. 28), 18 strokovnjakov"
+  ],
+  "provenance": "banka",
+  "officialStatus": "professor",
+  "mcq": null
+ },
+ {
+  "id": "q22",
+  "type": "short",
+  "prompt": "2 različna načina vzpostavitve pristojnosti odbora za individualne pritožbe (2 primera)",
+  "points": 4,
+  "topics": [
+   "nadzor"
+  ],
+  "answerOutline": [
+   "opcijski protokol: CEDAW OP 1999 (posameznik/skupina, ne anonimno, po izčrpanju)",
+   "člen konvencije: CAT čl. 22 (izjava države)"
+  ],
+  "provenance": "banka",
+  "officialStatus": "professor",
+  "mcq": null
+ },
+ {
+  "id": "q23",
+  "type": "short",
+  "prompt": "EKČP vs. ESL: primerjajte varstvo ČP",
+  "points": 4,
+  "topics": [
+   "regionalni"
+  ],
+  "answerOutline": [
+   "EKČP: civilno-politične, ESČP, zavezujoče sodbe",
+   "ESL: ekonomske-socialne, kolektivne pritožbe, priporočila",
+   "oba pod okriljem Sveta Evrope"
+  ],
+  "provenance": "banka",
+  "officialStatus": "professor",
+  "mcq": null
+ },
+ {
+  "id": "q24",
+  "type": "scenario",
+  "prompt": "Scenarij: država vrača prosilca v državo, kjer mu grozi mučenje. Kateri viri in postopki?",
+  "points": 4,
+  "topics": [
+   "mucenje",
+   "begunci"
+  ],
+  "answerOutline": [
+   "Konvencija o beguncih čl. 33 (non-refoulement)",
+   "CAT čl. 3 (širša zaščita pred vračanjem v mučenje)",
+   "ESČP čl. 3 (posredno); Odbor proti mučenju čl. 22",
+   "Italy–Libya primer (Di Nunzio)"
+  ],
+  "provenance": "generated",
+  "officialStatus": "generatedVariant",
+  "mcq": null
+ },
+ {
+  "id": "q25",
+  "type": "scenario",
+  "prompt": "Scenarij: platforma izbriše politično objavo, država nima varovalk. Razloži obveznosti.",
+  "points": 4,
+  "topics": [
+   "izrazanje"
+  ],
+  "answerOutline": [
+   "negativna obveznost (nevmešavanje) + pozitivna (pluralizem)",
+   "MPDPP 19 / EKČP 10 + 3-delni test omejitev",
+   "zasebne platforme: državna pozitivna obveznost regulacije",
+   "AI: algoritemska pristranskost, netransparentnost"
+  ],
+  "provenance": "generated",
+  "officialStatus": "generatedVariant",
+  "mcq": null
+ },
+ {
+  "id": "q26",
+  "type": "scenario",
+  "prompt": "Scenarij: država ne preiskuje serije skrivnih odvzemov prostosti.",
+  "points": 4,
+  "topics": [
+   "izginotja"
+  ],
+  "answerOutline": [
+   "ICPED čl. 2 definicija (2 elementa)",
+   "čl. 5 zločin proti človeškosti; čl. 6 nadrejeni",
+   "Velásquez-Rodríguez: pozitivna/procesna obveznost",
+   "Odbor za izginotja; ESČP"
+  ],
+  "provenance": "generated",
+  "officialStatus": "generatedVariant",
+  "mcq": null
+ },
+ {
+  "id": "q27",
+  "type": "scenario",
+  "prompt": "Scenarij: množični poboji politične skupine. Je genocid?",
+  "points": 4,
+  "topics": [
+   "genocid"
+  ],
+  "answerOutline": [
+   "čl. II: 4 zaščitene skupine — politična NI med njimi",
+   "dolus specialis potreben",
+   "alternativa: zločin proti človeškosti (Rimski statut čl. 7)"
+  ],
+  "provenance": "generated",
+  "officialStatus": "generatedVariant",
+  "mcq": null
+ },
+ {
+  "id": "q28",
+  "type": "scenario",
+  "prompt": "Scenarij: država trdi, da si ne more privoščiti nujne zdravstvene oskrbe.",
+  "points": 4,
+  "topics": [
+   "eskp"
+  ],
+  "answerOutline": [
+   "MPESKP čl. 2(1): progresivna realizacija ni prazna oprostitev",
+   "minimalne osnovne obveznosti takoj",
+   "nediskriminacija takoj",
+   "Odbor za ESKP; OP 2008 pritožbe"
+  ],
+  "provenance": "generated",
+  "officialStatus": "generatedVariant",
+  "mcq": null
+ }
+]

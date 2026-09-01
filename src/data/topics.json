@@ -1,0 +1,264 @@
+[
+ {
+  "id": "zivljenje",
+  "n": 1,
+  "title": "Pravica do življenja",
+  "titleEn": "Right to life",
+  "status": "seminar",
+  "legal": "MPDPP čl. 6 (omejitve: smrtna kazen po sodbi, nuja, vojni akt); EKČP čl. 2; 13. protokol (odprava smrtne kazni); Afriška listina čl. 4; AmK čl. 4 (od spočetja)",
+  "monitoring": "ESČP; Odbor za ČP",
+  "problems": "pozitivne obveznosti (preiskava umorov, zaščita življenja); smrtna kazen; femicid",
+  "model": "definicija → členi po ravneh (globalno/regionalno) → negativne + pozitivne obveznosti → omejitve → primer",
+  "materials": [
+   "MVČP_life.pdf",
+   "01_pravica_do_zivljenja.md",
+   "Vzorec-Pravice do življenja"
+  ]
+ },
+ {
+  "id": "mucenje",
+  "n": 2,
+  "title": "Prepoved mučenja",
+  "titleEn": "Prohibition of torture",
+  "status": "jedro+seminar",
+  "legal": "CAT 1984 čl. 1 (definicija: namerna huda bolečina/trpljenje + namen + uradna oseba; izključene zakonite sankcije); čl. 2 absolutnost; čl. 3 non-refoulement; EKČP čl. 3; MPDPP čl. 7; SDČP čl. 5; jus cogens",
+  "monitoring": "Odbor proti mučenju (čl. 20 preiskave, 21 meddržavne, 22 individualne); ESČP; ICJ (čl. 30) za spore; OPCAT: SPT + NPM",
+  "problems": "Tate 2013 — absolutna prepoved v praksi zataji (tajni pripori, izročitev, »ticking bomb«)",
+  "model": "kdaj prvič (Ženevske konvencije — vojni ujetniki) → najnatančneje CAT čl. 1 → pritožba: ESČP/Odbor (ICJ za državne spore) → jus cogens → Tate kritika",
+  "materials": [
+   "p. 2. povzetek-prepoved-mucenja-v2.pdf",
+   "P2_Prepoved mučenja_pisni izdelek.pdf",
+   "02_prepoved_mucenja.md",
+   "OPCAT quicksheet"
+  ]
+ },
+ {
+  "id": "izginotja",
+  "n": 3,
+  "title": "Varstvo pred prisilnimi izginotji",
+  "titleEn": "Enforced disappearances",
+  "status": "seminar",
+  "legal": "ICPED 2006: čl. 1 nederogabilnost; čl. 2 definicija (odvzem svobode + zanikanje usode); čl. 4 kriminalizacija; čl. 5 široka praksa = zločin proti človeškosti; čl. 6 odgovornost nadrejenih",
+  "monitoring": "Odbor za prisilna izginotja (individualne + meddržavne); ESČP; Medameriško sodišče",
+  "problems": "Velásquez-Rodríguez — država odgovorna, če ne preiskuje/preprečuje (clandestine repression)",
+  "model": "definicija (2 elementa!) → členi → zločin proti človeškosti → Velásquez → Ukrajina/Sirija",
+  "materials": [
+   "P1_pogodba.pdf",
+   "P1_Varstvo pred prisilnimi izginotji.pdf",
+   "Aguilar 2019",
+   "ICPED quicksheet"
+  ]
+ },
+ {
+  "id": "otroci",
+  "n": 4,
+  "title": "Otrokove pravice",
+  "titleEn": "Children's rights",
+  "status": "seminar",
+  "legal": "CRC 1989 (res. 44/25): čl. 1 (<18); čl. 3 najboljša korist; P2 (oboroženi konflikti, prostitucija/pornografija); P3 (komunikacijski postopek, 2011); 196 ratifikacij (ne ZDA); Afriška listina o otrokih 1990",
+  "monitoring": "Odbor za otrokove pravice (P3)",
+  "problems": "Holzscheiter 2019 (child rights governance); neregistrirani otroci (~290 mio), kobalt/Kongo, otroci vojaki (Sirija, Sudan, Ukrajina)",
+  "model": "definicija otroka → CRC členi → najboljša korist → P2/P3 → primeri",
+  "materials": [
+   "P4_Konvencija_o_otrokovih_pravicah.pdf",
+   "otrokove pravice.pdf",
+   "04_otrokove_pravice.md"
+  ]
+ },
+ {
+  "id": "zenske",
+  "n": 5,
+  "title": "Pravice žensk",
+  "titleEn": "Women's rights",
+  "status": "seminar",
+  "legal": "CEDAW 1979 (res. 34/180) čl. 1 (diskriminacija); OP 1999 (individualne pritožbe + preiskave); Deklaracija 1967; Pekinška 1995; Istanbulska konvencija 2011 (nasilje); 189 ratifikacij (ZDA ne)",
+  "monitoring": "CEDAW Odbor",
+  "problems": "Mohajan 2022 — 4 valove feminizma (1: volilna pravica; 2: 1960s–90s delo/nasilje; 3: 1990s–2000s; 4: 2012+ digitalna, #MeToo); femicid; plače",
+  "model": "zgodovina valov → CEDAW čl. 1 → OP → Istanbulska → težave v praksi",
+  "materials": [
+   "p. 3. povzetek-pravice-zensk.pdf",
+   "Pravice zensk.pdf",
+   "05_pravice_zensk.md",
+   "Pogodba_p3_CEDAW.pdf"
+  ]
+ },
+ {
+  "id": "invalidi",
+  "n": 6,
+  "title": "Pravice oseb z invalidnostjo",
+  "titleEn": "Disability rights",
+  "status": "seminar",
+  "legal": "CRPD 2006: čl. 2 (univerzalno oblikovanje; primerna prilagoditev — odklonitev = diskriminacija); čl. 9 dostopnost; čl. 12 pravna sposobnost",
+  "monitoring": "CRPD Odbor (+ OP)",
+  "problems": "Berghs 2019 — »stronger social model: a social model of human rights«; medicinski → socialni model; izolacija, institucionalizacija",
+  "model": "medicinski vs. socialni model → CRPD členi → primerna prilagoditev → primer",
+  "materials": [
+   "PI_Pravice oseb z invalidnostmi-2.pdf",
+   "06_pravice_oseb_z_invalidnostjo.md",
+   "Berghs 2019"
+  ]
+ },
+ {
+  "id": "begunci",
+  "n": 7,
+  "title": "Begunci",
+  "titleEn": "Refugees",
+  "status": "seminar",
+  "legal": "Konvencija o statusu beguncev 1951 + Protokol 1967: čl. 1A(2) definicija (utemeljen strah pred preganjanjem: rasa, vera, narodnost, mnenje, socialna skupina); čl. 33 non-refoulement; SDČP čl. 14 (azil)",
+  "monitoring": "UNHCR; ESČP; Odbor za ČP",
+  "problems": "Italy–Libya Memorandum (Di Nunzio 2023): pullbacks = kolektivni izgon + refoulement; zunanja meja EU",
+  "model": "definicija begunca (5 razlogov!) → čl. 33 → razlika od migranta → primer",
+  "materials": [
+   "Konvencija o statusu beguncev.pdf",
+   "07_status_in_varstvo_pravic_beguncev_in_migrantov.md"
+  ]
+ },
+ {
+  "id": "migranti",
+  "n": 8,
+  "title": "Delavci migranti",
+  "titleEn": "Migrant workers",
+  "status": "seminar",
+  "legal": "ICRMW 1990: čl. 2(1) definicija delavca migranta; nizka ratifikacija (samo države izhoda)",
+  "monitoring": "CMW Odbor",
+  "problems": "razlika begunec (preganjanje) vs. migrant (ekonomski/socialni razlogi); Sredozemlje",
+  "model": "2 konvenciji (1951 + 1990) → definiciji → non-refoulement po begunski konvenciji čl. 33 (+ širša zaščita CAT čl. 3) → primer",
+  "materials": [
+   "Mednarodna konvencija o zaščiti delavcev migrantov.pdf",
+   "07_status_in_varstvo...md",
+   "ICRMW quicksheet"
+  ]
+ },
+ {
+  "id": "eskp",
+  "n": 9,
+  "title": "Ekonomske in socialne pravice",
+  "titleEn": "Economic and social rights",
+  "status": "seminar",
+  "legal": "MPESKP: čl. 2(1) progresivna realizacija + minimalne osnovne obveznosti; čl. 6 delo, 9 socialno varstvo, 12 zdravstvo, 13 izobraževanje; OP 2008 (individualne pritožbe); ESL (kolektivne pritožbe)",
+  "monitoring": "Odbor za ESKP (1985, ECOSOC)",
+  "problems": "»2 najslabše implementirana člena + primeri«: stanovanje (brezdomstvo), zdravstvo (dostop), hrana (Jemen, Sudan); neoliberalizem/privatizacija (Breznik/Praznik 2024)",
+  "model": "1. vs. 2. generacija → progresivna realizacija → členi → primeri",
+  "materials": [
+   "08_socialne_pravice.md",
+   "09_ekonomske_pravice.md",
+   "p 12 EKONOMSKE PRAVICE SEMINARSKA NALOGA.pdf",
+   "mvčp-socialne pravice_pisni povzetek1.pdf"
+  ]
+ },
+ {
+  "id": "okolje",
+  "n": 10,
+  "title": "Pravica do čistega okolja",
+  "titleEn": "Right to a healthy environment",
+  "status": "jedro+seminar",
+  "legal": "pred 1972 ni omembe (SDČP, pakta, EKČP, AmK) → Stockholmska deklaracija 1972 (rojstvo; 26 načel; UNEP) → Brundtland 1987 (trajnostni razvoj) → Rio 1992 → Aarhuška 1998 (procesne pravice) → Resolucija Sveta za ČP 2021 → A/RES/76/300 (2022)",
+  "monitoring": "Svet za ČP; ICJ advisory opinion (preveri status); ESČP posredno",
+  "problems": "onemogočalo: suverenost nad viri, razvojne prioritete Juga, okolje kot »nova« kategorija; Held v. Montana; Ogoni/Shell (Nigerija)",
+  "model": "kdaj (Stockholm 1972) → kaj je onemogočalo → razvoj do 2022 → procesne pravice (Aarhuška) → primeri",
+  "materials": [
+   "p. 10. povzetek-pravica-do-okolja.pdf",
+   "okolje_seminarska_P3.txt",
+   "10_pravica_do_cistega_okolja.md"
+  ]
+ },
+ {
+  "id": "razvoj",
+  "n": 11,
+  "title": "Pravica do razvoja",
+  "titleEn": "Right to development",
+  "status": "seminar",
+  "legal": "Deklaracija o pravici do razvoja 1986 (res. 41/128) — NI pravno zavezujoča (politična); individualna + kolektivna",
+  "monitoring": "brez posebnega telesa",
+  "problems": "Schrijver — potreba po konvenciji; Subedi — programski dokument; Sever–Jug razlike",
+  "model": "definicija → ni zavezujoča (za razliko od okolja!) → Sever–Jug → argumenti za konvencijo",
+  "materials": [
+   "11_pravica_do_razvoja.md",
+   "Declaration on the Right to Development.pdf",
+   "Schrijver članek"
+  ]
+ },
+ {
+  "id": "genocid",
+  "n": 12,
+  "title": "Prepoved genocida",
+  "titleEn": "Prohibition of genocide",
+  "status": "jedro+seminar",
+  "legal": "Konvencija o genocidu 1948/1951: čl. II definicija (dolus specialis + 4 skupine: rasna, verska, etnična, nacionalna + 5 dejanj); čl. III kazniva dejanja; čl. VI sojenje; čl. IX ICJ; Lemkin 1944: genos + cide; Lauterpacht: individualna odgovornost; Nürnberg 1945–46; GA Res 96(I) 1946",
+  "monitoring": "ICJ (čl. IX); ICC (Rimski statut)",
+  "problems": "Gaza → pomanjkljivosti: dokaz dolus specialis, enforcement, politika, ozke 4 skupine (brez političnih/socialnih)",
+  "model": "Lemkin + etimologija → čl. II (4 skupine + 5 dejanj + namernost) → čl. IX ICJ → Gaza pomanjkljivosti",
+  "materials": [
+   "p. 10. povzetek-prepoved-genocida.pdf",
+   "12_prepoved_genocida.md",
+   "An Unfulfilled Promise.pdf",
+   "GenocideConvention quicksheet"
+  ]
+ },
+ {
+  "id": "izrazanje",
+  "n": 13,
+  "title": "Svoboda izražanja",
+  "titleEn": "Freedom of expression",
+  "status": "seminar",
+  "legal": "SDČP čl. 19; MPDPP čl. 19; EKČP čl. 10; Afriška čl. 9; Ameriška čl. 13; Milton Areopagitica 1644 (iskanje, prejemanje, razširjanje); Švedski zakon o svobodi tiska 1766",
+  "monitoring": "ESČP; Odbor za ČP (Splošni komentar 34); 4 posebna poročevalca (Joint Declaration 2019)",
+  "problems": "omejitve (10(2)/19(3)): zakonita + legitimen cilj + nujna v demokratični družbi; sovražni govor, dezinformacije, algoritmi/AI; negativni (od vmešavanja) vs. pozitivni aspekt",
+  "model": "definicija + 3 vidiki → členi → negativni/pozitivni aspekt → 3-delni test omejitev → AI/mediji",
+  "materials": [
+   "p. 13. povzetek-svoboda-izrazanja.pdf",
+   "Svoboda Izražanja Pisni Izdelek.pdf",
+   "13_svoboda_izrazanja.md",
+   "Howie 2018"
+  ]
+ },
+ {
+  "id": "veroizpoved",
+  "n": 14,
+  "title": "Svoboda veroizpovedi",
+  "titleEn": "Freedom of religion",
+  "status": "seminar",
+  "legal": "EKČP čl. 9; MPDPP čl. 18; SDČP 18; forum internum (prepričanje — absolutno) vs. forum externum (manifestiranje — omejljivo)",
+  "monitoring": "ESČP; Odbor za ČP",
+  "problems": "verska diskriminacija; reformacija (Luther); Poročilo MVČP 2024 (Frank/Šinigoj/Jelerčič)",
+  "model": "členi → internum/externum → omejitve → primer",
+  "materials": [
+   "Poročilo MVČP.pdf",
+   "Pravica do veroizpovedi_koncni izdelek",
+   "14_svoboda_veroizpovedi.md"
+  ]
+ },
+ {
+  "id": "samoodlocba",
+  "n": 15,
+  "title": "Pravica do samooodločbe",
+  "titleEn": "Self-determination",
+  "status": "seminar",
+  "legal": "MPDPP čl. 1 = MPESKP čl. 1 (identična); UL OZN 1(2), 55; Afriška listina čl. 20 (dekolonizacija); jus cogens (po nekaterih)",
+  "monitoring": "brez posebnega telesa",
+  "problems": "kolektivni subjekt — kdo je »narod«? (Vincent); notranja/zunanja samoodločba; Palestina",
+  "model": "člena paktov → kolektivna pravica → dekolonizacija → problem definicije naroda",
+  "materials": [
+   "PI_PRAVICA DO SAMOODLOČBE MATIJA I DANICA.pdf",
+   "15_pravica_do_samoodlocbe.md",
+   "Klabbers 2006"
+  ]
+ },
+ {
+  "id": "manjsine",
+  "n": 16,
+  "title": "Manjšinske pravice",
+  "titleEn": "Minority rights",
+  "status": "seminar",
+  "legal": "MPDPP čl. 27 (edini globalni zavezujoč); Deklaracija 1992; OKVNM 1995/98 (čl. 5, 6, 15); Arabska listina čl. 25; ILO 169 (domorodci)",
+  "monitoring": "Svetovalni odbor (AC, Svet Evrope); Odbor za ČP",
+  "problems": "Castellino 2010; DN: varstvo manjšin za mir (diskriminatoren sistem); identiteta (jezik, kultura, vera)",
+  "model": "DN zgodovina (cilj: mir!) → čl. 27 → OKVNM → težave",
+  "materials": [
+   "p 6Manjšinske pravice.pdf",
+   "16_varstvo_manzinskih_pravic.md",
+   "Castellino 2010",
+   "1992 Declaration"
+  ]
+ }
+]

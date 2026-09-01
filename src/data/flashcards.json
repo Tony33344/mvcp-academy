@@ -1,0 +1,1769 @@
+[
+ {
+  "id": "fc001",
+  "prompt": "MPDPP čl. 28 → katero telo in koliko članov?",
+  "answer": "Odbor za človekove pravice — 18 neodvisnih strokovnjakov",
+  "kind": "fact",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "A",
+  "source": "MPDPP čl. 28"
+ },
+ {
+  "id": "fc002",
+  "prompt": "Svet za ČP — koliko držav in kateri mehanizem?",
+  "answer": "47 držav (regionalno, tajno glasovanje); UPR vsakih 4–4,5 let",
+  "kind": "fact",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "A",
+  "source": "GA Res 60/251"
+ },
+ {
+  "id": "fc003",
+  "prompt": "CAT 1–2–3?",
+  "answer": "čl. 1 definicija mučenja · čl. 2 absolutnost · čl. 3 non-refoulement",
+  "kind": "fact",
+  "topics": [
+   "mucenje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc004",
+  "prompt": "Konvencija o beguncih: čl. 1A(2) in čl. 33?",
+  "answer": "1A(2) definicija begunca (5 razlogov preganjanja) · čl. 33 non-refoulement",
+  "kind": "fact",
+  "topics": [
+   "begunci"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc005",
+  "prompt": "Genocid: čl. II in čl. IX?",
+  "answer": "čl. II definicija (dolus specialis, 4 skupine, 5 dejanj) · čl. IX spori pred ICJ",
+  "kind": "fact",
+  "topics": [
+   "genocid"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc006",
+  "prompt": "Izražanje: MPDPP in EKČP člen?",
+  "answer": "MPDPP čl. 19 · EKČP čl. 10",
+  "kind": "fact",
+  "topics": [
+   "izrazanje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc007",
+  "prompt": "Veroizpoved: MPDPP in EKČP člen?",
+  "answer": "MPDPP čl. 18 · EKČP čl. 9",
+  "kind": "fact",
+  "topics": [
+   "veroizpoved"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc008",
+  "prompt": "Življenje: MPDPP in EKČP člen?",
+  "answer": "MPDPP čl. 6 · EKČP čl. 2",
+  "kind": "fact",
+  "topics": [
+   "zivljenje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc009",
+  "prompt": "Manjšine: ključna člena?",
+  "answer": "MPDPP čl. 27 (edini globalni zavezujoč) · OKVNM 1995/98 (čl. 5, 6, 15)",
+  "kind": "fact",
+  "topics": [
+   "manjsine"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc010",
+  "prompt": "Okolje: od Stockholma do danes?",
+  "answer": "Stockholm 1972 → A/RES/76/300 (2022)",
+  "kind": "fact",
+  "topics": [
+   "okolje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc011",
+  "prompt": "Pravica do razvoja — pravna narava?",
+  "answer": "Deklaracija 1986 (res. 41/128) — NI pravno zavezujoča",
+  "kind": "fact",
+  "topics": [
+   "razvoj"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc012",
+  "prompt": "ESČP: pritožba, dopustnost, zavezujočost?",
+  "answer": "čl. 34 pritožba · čl. 35 dopustnost · čl. 46 zavezujoča sodba",
+  "kind": "fact",
+  "topics": [
+   "regionalni"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc013",
+  "prompt": "Običajno pravo — vir in 2 elementa?",
+  "answer": "ICJ Statut čl. 38(1)(b); state practice + opinio juris",
+  "kind": "fact",
+  "topics": [
+   "obicaj"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc014",
+  "prompt": "Persistent objector — kaj in izjema?",
+  "answer": "edina izjema od zavezujočnosti običaja; ne velja za jus cogens",
+  "kind": "fact",
+  "topics": [
+   "obicaj"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc015",
+  "prompt": "Vincent: 5 elementov pravice?",
+  "answer": "subjekt · objekt (do/pred) · uveljavljanje (paradoks posesti) · nosilec dolžnosti (Shue: 3 dolžnosti) · utemeljitev",
+  "kind": "fact",
+  "topics": [
+   "koncept"
+  ],
+  "authority": "B",
+  "source": "Vincent 1986"
+ },
+ {
+  "id": "fc016",
+  "prompt": "Shue: 3 korelativne dolžnosti?",
+  "answer": "izogibanje prikrajšanju · zaščita pred prikrajšanjem · pomoč prikrajšanim",
+  "kind": "fact",
+  "topics": [
+   "koncept"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc017",
+  "prompt": "Kdaj dokument postane pravno zavezujoč?",
+  "answer": "ratifikacija 35 držav (pakta) / 10 (protokoli) + notranja potrditev (DZ)",
+  "kind": "fact",
+  "topics": [
+   "ratifikacije"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc018",
+  "prompt": "3 razlogi za 2 pakta (1966)?",
+  "answer": "suverenost vs. nadzor · posameznik (Z) vs. skupnost (V) · vsebina ČP (civilno-politične vs. ekonomske-socialne)",
+  "kind": "fact",
+  "topics": [
+   "listina"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc019",
+  "prompt": "3 obdobja ratifikacijskih omrežij?",
+  "answer": "15 let pred koncem HV (ozek krog, ZDA nič) → ob koncu (širitev) → 15 let po (vse vsaj 1; bivše komunistične množično)",
+  "kind": "fact",
+  "topics": [
+   "ratifikacije"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc020",
+  "prompt": "Komisija → Svet za ČP: kdaj in zakaj?",
+  "answer": "2006; Komisija preveč politizirana, kršiteljice v njej",
+  "kind": "fact",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc021",
+  "prompt": "CEDAW: letnica, čl. 1, ratifikacije?",
+  "answer": "1979 (res. 34/180); čl. 1 diskriminacija; 189 ratifikacij (ZDA ne)",
+  "kind": "fact",
+  "topics": [
+   "zenske"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc022",
+  "prompt": "CRC: letnica, čl. 1, čl. 3, ratifikacije?",
+  "answer": "1989 (res. 44/25); čl. 1 <18; čl. 3 najboljša korist; 196 ratifikacij (ZDA ne)",
+  "kind": "fact",
+  "topics": [
+   "otroci"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc023",
+  "prompt": "CRPD čl. 2 — 2 ključna pojma?",
+  "answer": "univerzalno oblikovanje · primerna prilagoditev (odklonitev = diskriminacija)",
+  "kind": "fact",
+  "topics": [
+   "invalidi"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc024",
+  "prompt": "ICPED čl. 5 — kaj določa?",
+  "answer": "široka/sistemska praksa prisilnega izginotja = zločin proti človeškosti",
+  "kind": "fact",
+  "topics": [
+   "izginotja"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc025",
+  "prompt": "ICRMW čl. 2(1)?",
+  "answer": "definicija delavca migranta; nizka ratifikacija",
+  "kind": "fact",
+  "topics": [
+   "migranti"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc026",
+  "prompt": "Velásquez-Rodríguez — doktrina?",
+  "answer": "država odgovorna, če ne preiskuje/preprečuje prisilna izginotja (clandestine repression)",
+  "kind": "fact",
+  "topics": [
+   "izginotja"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc027",
+  "prompt": "Lemkin — genos + cide?",
+  "answer": "genos (grško: rasa/pleme/narod) + cide (latinsko: ubijanje); skoval 1944",
+  "kind": "fact",
+  "topics": [
+   "genocid"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc028",
+  "prompt": "Sen — azijske vrednote?",
+  "answer": "kulturni relativizem = izgovor avtoritarnih režimov; univerzalnost združljiva z azijskimi tradicijami",
+  "kind": "fact",
+  "topics": [
+   "regionalni"
+  ],
+  "authority": "C",
+  "source": "Sen 2015"
+ },
+ {
+  "id": "fc029",
+  "prompt": "Helfer 2020 — tema?",
+  "answer": "populizem in mednarodne institucije ČP (survival guide)",
+  "kind": "fact",
+  "topics": [
+   "aktualno"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc030",
+  "prompt": "Milton, Areopagitica 1644 — 3 vidiki izražanja?",
+  "answer": "iskanje · prejemanje · razširjanje informacij",
+  "kind": "fact",
+  "topics": [
+   "izrazanje"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc031",
+  "prompt": "EKČP 10(2) — 3-delni test omejitev?",
+  "answer": "zakonita + legitimen cilj + nujna v demokratični družbi (+ sorazmernost)",
+  "kind": "fact",
+  "topics": [
+   "izrazanje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc032",
+  "prompt": "Forum internum vs. externum?",
+  "answer": "internum (prepričanje) absolutno · externum (manifestiranje) omejljivo",
+  "kind": "fact",
+  "topics": [
+   "veroizpoved"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc033",
+  "prompt": "Progresivna realizacija — člen in omejitev?",
+  "answer": "MPESKP čl. 2(1); minimalne osnovne obveznosti in nediskriminacija veljata takoj",
+  "kind": "fact",
+  "topics": [
+   "eskp"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc034",
+  "prompt": "Stockholm 1972 — pomen?",
+  "answer": "rojstvo pravice do okolja; 26 načel; ustanovljen UNEP",
+  "kind": "fact",
+  "topics": [
+   "okolje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc035",
+  "prompt": "A/RES/76/300?",
+  "answer": "2022: GS OZN priznala pravico do čistega, zdravega in trajnostnega okolja",
+  "kind": "fact",
+  "topics": [
+   "okolje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc036",
+  "prompt": "Dolus specialis?",
+  "answer": "posebni namen uničiti zaščiteno skupino — najtežji dokazni element genocida",
+  "kind": "fact",
+  "topics": [
+   "genocid"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc037",
+  "prompt": "Non-refoulement — 2 vira?",
+  "answer": "CAT čl. 3 (vračanje v mučenje) · Konvencija o beguncih čl. 33",
+  "kind": "fact",
+  "topics": [
+   "mucenje",
+   "begunci"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc038",
+  "prompt": "UPR — 3 lastnosti ocene?",
+  "answer": "dobro: vse pravice, tudi nepogodbenice; slabo: priporočila neobvezna, politizacija",
+  "kind": "fact",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc039",
+  "prompt": "2 načina vzpostavitve individualne pristojnosti?",
+  "answer": "① opcijski protokol (1. OP MPDPP, OP CEDAW, OP MPESKP, OP CRC) ② izjava po členu konvencije (CAT čl. 22, ICPED čl. 31)",
+  "kind": "fact",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc040",
+  "prompt": "ESČP formacije?",
+  "answer": "posamezni sodnik · odbori (3) · senati (7) · Veliki senat (17)",
+  "kind": "fact",
+  "topics": [
+   "regionalni"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc041",
+  "prompt": "Magna Carta — 2 ključni prispevka?",
+  "answer": "habeas corpus (določili 39/40) · kralj podrejen zakonu; nadzor: 25 baronov",
+  "kind": "fact",
+  "topics": [
+   "zgodovina"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc042",
+  "prompt": "Hamurabi — 3 sodobni pomeni?",
+  "answer": "predpostavka nedolžnosti · dokazi obeh strani · varstvo šibkejšega",
+  "kind": "fact",
+  "topics": [
+   "zgodovina"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc043",
+  "prompt": "DN in manjšine — pravi cilj?",
+  "answer": "mir in stabilnost novih meja, ne humanitarne vzgibe; diskriminatoren sistem",
+  "kind": "fact",
+  "topics": [
+   "zgodovina"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc044",
+  "prompt": "Paradoks posesti?",
+  "answer": "formalno poseduješ pravico (zapisana), praktično je ne uživaš",
+  "kind": "fact",
+  "topics": [
+   "koncept"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc045",
+  "prompt": "OPCAT — telesa in funkcija?",
+  "answer": "SPT (podkomisija za preprečevanje) + NPM (nacionalni mehanizmi); preventivni obiski",
+  "kind": "fact",
+  "topics": [
+   "mucenje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc046",
+  "prompt": "Aarhuška konvencija 1998?",
+  "answer": "procesne pravice okolja: dostop do informacij, sodelovanje, pravno varstvo",
+  "kind": "fact",
+  "topics": [
+   "okolje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc047",
+  "prompt": "Istanbulska konvencija 2011?",
+  "answer": "preprečevanje in boj proti nasilju nad ženskami in nasilju v družini",
+  "kind": "fact",
+  "topics": [
+   "zenske"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc048",
+  "prompt": "Kolektivne pritožbe — kje?",
+  "answer": "ESL (sindikati, NGO) → Evropski odbor za socialne pravice → Odbor ministrov",
+  "kind": "fact",
+  "topics": [
+   "regionalni"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc049",
+  "prompt": "Held v. Montana?",
+  "answer": "klimatska sodba — pravica do čistega okolja (ZDA, državna raven)",
+  "kind": "fact",
+  "topics": [
+   "okolje"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc050",
+  "prompt": "Italy–Libya Memorandum (Di Nunzio 2023)?",
+  "answer": "pullbacks = kolektivni izgon + refoulement; zunanja meja EU",
+  "kind": "fact",
+  "topics": [
+   "begunci"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc051",
+  "prompt": "Členska družina — EKČP jedro?",
+  "answer": "2 življenje · 3 mučenje · 9 vera · 10 izraz · 14 nediskriminacija",
+  "kind": "cluster",
+  "topics": [
+   "regionalni"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc052",
+  "prompt": "Členska družina — EKČP pritožbe?",
+  "answer": "34 pritožba · 35 dopustnost · 46 zavezujočost",
+  "kind": "cluster",
+  "topics": [
+   "regionalni"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc053",
+  "prompt": "Členska družina — CAT jedro?",
+  "answer": "1 definicija · 2 absolutnost · 3 nevračanje",
+  "kind": "cluster",
+  "topics": [
+   "mucenje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc054",
+  "prompt": "Členska družina — CAT pritožbe?",
+  "answer": "20 preiskava · 21 meddržavne · 22 individualne · 30 ICJ",
+  "kind": "cluster",
+  "topics": [
+   "mucenje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc055",
+  "prompt": "Členska družina — MPDPP jedro?",
+  "answer": "1 samoodločba · 6 življenje · 7 mučenje · 18 vera · 19 izraz · 27 manjšine · 28 Odbor",
+  "kind": "cluster",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc056",
+  "prompt": "Členska družina — Genocid?",
+  "answer": "II definicija · III kazniva dejanja · VI sojenje · IX ICJ",
+  "kind": "cluster",
+  "topics": [
+   "genocid"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc057",
+  "prompt": "Členska družina — ICPED?",
+  "answer": "1 prepoved · 2 definicija · 4 kriminalizacija · 5 človeškost · 6 nadrejeni",
+  "kind": "cluster",
+  "topics": [
+   "izginotja"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc058",
+  "prompt": "Členska družina — Begunci?",
+  "answer": "1A(2) definicija · 33 nevračanje",
+  "kind": "cluster",
+  "topics": [
+   "begunci"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc059",
+  "prompt": "NE ZAMEŠAJ: Odbor za ČP ≠ Svet za ČP ≠ Komisija",
+  "answer": "Odbor = MPDPP + 18 strokovnjakov; Svet = 47 držav + UPR; Komisija = predhodnica Sveta do 2006",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc060",
+  "prompt": "NE ZAMEŠAJ: 1. OP k MPDPP = individualne; čl. 41 = meddržavne",
+  "answer": "2. OP = smrtna kazen",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc061",
+  "prompt": "NE ZAMEŠAJ: CAT ≠ OPCAT",
+  "answer": "CAT definira in prepoveduje; OPCAT preventivno obiskuje (SPT + NPM)",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc062",
+  "prompt": "NE ZAMEŠAJ: Begunec ≠ migrant",
+  "answer": "begunec: preganjanje (5 razlogov); migrant: ekonomski/socialni razlogi",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc063",
+  "prompt": "NE ZAMEŠAJ: SDČP ≠ pogodba",
+  "answer": "deklaracija, skupni ideal; zavezujoča pakta iz 1966",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc064",
+  "prompt": "NE ZAMEŠAJ: UPR ≠ poročanje odboru",
+  "answer": "UPR političen, univerzalen, charter-based; odbor nadzoruje svojo pogodbo",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc065",
+  "prompt": "NE ZAMEŠAJ: Stališče odbora ≠ sodba ESČP",
+  "answer": "odbor: priporočila; ESČP: zavezujoča sodba (čl. 46)",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc066",
+  "prompt": "NE ZAMEŠAJ: Forum internum ≠ externum",
+  "answer": "prepričanje absolutno; manifestiranje omejljivo",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc067",
+  "prompt": "NE ZAMEŠAJ: Progresivna realizacija ≠ nedelovanje",
+  "answer": "minimalno jedro + nediskriminacija takoj",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc068",
+  "prompt": "NE ZAMEŠAJ: Genocid ≠ vsak množični zločin",
+  "answer": "zahteva dolus specialis + 4 zaščitene skupine",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc069",
+  "prompt": "NE ZAMEŠAJ: Okolje ≠ razvoj",
+  "answer": "okolje: A/RES/76/300 (priznano); razvoj: Deklaracija 1986 (nezavezujoča)",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc070",
+  "prompt": "NE ZAMEŠAJ: Prejšnji izpit ≠ letošnji seznam",
+  "answer": "dokaz sloga in ponavljajočega se jedra, ne garancija",
+  "kind": "trap",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc071",
+  "prompt": "Ustanovna listina OZN (1945) — ključna dejstva?",
+  "answer": "čl. 1(3): razvijati in spodbujati spoštovanje ČP; NI seznama ČP",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc072",
+  "prompt": "SDČP / UDHR (1948) — ključna dejstva?",
+  "answer": "res. GS 217 A (III), 10.12.1948; 30 členov; politično (ne pravno) zavezujoča; čl. 1 dostojanstvo, čl. 2 nediskriminacija",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc073",
+  "prompt": "MPDPP / ICCPR (1966/1976) — ključna dejstva?",
+  "answer": "res. 2200 A (XXI); 35 ratifikacij za veljavo; čl. 6 življenje, 7 mučenje, 18 veroizpoved, 19 izražanje, 27 manjšine, 28 Odbor",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc074",
+  "prompt": "MPESKP / ICESCR (1966/1976) — ključna dejstva?",
+  "answer": "čl. 1 samoodločba (identična MPDPP); čl. 2(1) progresivna realizacija; poročanje ECOSOC; Odbor za ESKP ustanovljen z resolucijo ECOSOC 1985/17",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc075",
+  "prompt": "EKČP (1950/53) — ključna dejstva?",
+  "answer": "čl. 2 življenje, 3 mučenje, 9 veroizpoved, 10 izražanje, 14 nediskriminacija, 34 individualne pritožbe, 35 dopustnost, 46 zavezujočost sodb",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc076",
+  "prompt": "CAT — Konvencija proti mučenju (1984) — ključna dejstva?",
+  "answer": "čl. 1 definicija (severe pain, uradna oseba); čl. 2 absolutnost; čl. 3 non-refoulement; čl. 21/22 pritožbe; čl. 30 ICJ",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc077",
+  "prompt": "OPCAT (2002) — preventiva — ključna dejstva?",
+  "answer": "SPT + NPM; redni obiski krajev pripora",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc078",
+  "prompt": "CEDAW (1979, res. 34/180) — ključna dejstva?",
+  "answer": "čl. 1 diskriminacija; OP 1999 (individualne pritožbe + preiskave); 189 ratifikacij, ZDA ne",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc079",
+  "prompt": "CRC — Konvencija o otrokovih pravicah (1989) — ključna dejstva?",
+  "answer": "čl. 1 (<18); čl. 3 najboljša korist; 196 ratifikacij (ne ZDA); P2 (konflikti), P3 (individualne pritožbe 2011)",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc080",
+  "prompt": "CRPD (2006) — ključna dejstva?",
+  "answer": "čl. 2 univerzalno oblikovanje + primerna prilagoditev; čl. 9 dostopnost; čl. 12 pravna sposobnost; socialni model",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc081",
+  "prompt": "ICPED — prisilna izginotja (2006) — ključna dejstva?",
+  "answer": "čl. 1 nederogabilnost; čl. 2 definicija; čl. 4 kriminalizacija; čl. 5 zločin proti človeškosti; čl. 6 nadrejeni",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc082",
+  "prompt": "ICRMW — delavci migranti (1990) — ključna dejstva?",
+  "answer": "čl. 2(1) definicija delavca migranta; nizka ratifikacija",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc083",
+  "prompt": "Konvencija o statusu beguncev (1951 + Protokol 1967) — ključna dejstva?",
+  "answer": "čl. 1A(2) definicija (preganjanje: rasa/vera/narodnost/mnenje/socialna skupina); čl. 33 non-refoulement",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc084",
+  "prompt": "Konvencija o genocidu (1948/1951) — ključna dejstva?",
+  "answer": "čl. II definicija (dolus specialis, 4 skupine, 5 dejanj); čl. III kazniva dejanja; čl. VI sojenje; čl. IX ICJ",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc085",
+  "prompt": "Opcijski protokol k MPESKP (2008) — ključna dejstva?",
+  "answer": "individualne + meddržavne pritožbe + preiskave",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc086",
+  "prompt": "Izbirni protokol h CEDAW (1999) — ključna dejstva?",
+  "answer": "individualne pritožbe/skupine; ne anonimno; po izčrpanju domačih sredstev; zaprta sestanki",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc087",
+  "prompt": "A/RES/76/300 (2022) — pravica do okolja — ključna dejstva?",
+  "answer": "GS OZN priznala pravico do čistega, zdravega in trajnostnega okolja; predhodnica: Resolucija Sveta za ČP 2021",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc088",
+  "prompt": "Stockholmska deklaracija (1972) — ključna dejstva?",
+  "answer": "rojstvo pravice do okolja; 26 načel; UNEP; pred 1972 ni omembe okolja v SDČP/paktih/EKČP",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc089",
+  "prompt": "Deklaracija o pravici do razvoja (1986, res. 41/128) — ključna dejstva?",
+  "answer": "NI pravno zavezujoča (politična); individualna + kolektivna",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc090",
+  "prompt": "Aarhuška konvencija (1998) — ključna dejstva?",
+  "answer": "procesne pravice okolja: informacije, sodelovanje, pravno varstvo",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc091",
+  "prompt": "Istanbulska konvencija (2011) — ključna dejstva?",
+  "answer": "nasilje nad ženskami in nasilje v družini",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc092",
+  "prompt": "Protokol št. 14 k EKČP (2004) — ključna dejstva?",
+  "answer": "reforma ESČP zaradi zamašitve; mandat sodnikov 9 let brez ponovne izvolitve (čl. 23); formacije: posamezni sodnik, komisije (3), senati (7), Veliki senat (17)",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc093",
+  "prompt": "Ženevske konvencije (1864/1949) — ključna dejstva?",
+  "answer": "humanitarno pravo; mučenje prvič sistematično (vojni ujetniki)",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc094",
+  "prompt": "Odbor za človekove pravice (treaty-based, MPDPP) — ključna dejstva?",
+  "answer": "18 neodvisnih strokovnjakov; poročila držav + priporočila; NI enako Svet za ČP (prof. poudarja)",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc095",
+  "prompt": "Svet za človekove pravice (2006) — ključna dejstva?",
+  "answer": "47 držav (tajno glasovanje, regionalno načelo); UPR vs. ~4,5 let; posebni postopki; complaint procedure za vzorce hudih kršitev",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc096",
+  "prompt": "Komisija za ČP (1946–2006) — ključna dejstva?",
+  "answer": "pomožno telo ECOSOC; preveč politizirana, v njej kršiteljice → reforma 2006",
+  "kind": "entity",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc097",
+  "prompt": "OHCHR — Visoki komisar za ČP — ključna dejstva?",
+  "answer": "sekretariat pogodbenih teles",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc098",
+  "prompt": "Odbor za ESKP (1985) — ključna dejstva?",
+  "answer": "delovno telo ECOSOC; strokovnjaki",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc099",
+  "prompt": "ESČP — Evropsko sodišče za človekove pravice — ključna dejstva?",
+  "answer": "sodnik iz vsake države; mandat 9 let, brez ponovne izvolitve, do 70. leta; izvolitev: Parlamentarna skupščina SE; formacije: posamezni sodnik/komisije(3)/senati(7)/Veliki senat(17); sodba zavezujoča (čl. 46); P14 = reforma backloga",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc100",
+  "prompt": "Odbor ministrov Sveta Evrope — ključna dejstva?",
+  "answer": "izvršuje sodbe ESČP; lahko zahteva svetovalno mnenje",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc101",
+  "prompt": "Meddržavno sodišče (ICJ) — ključna dejstva?",
+  "answer": "čl. 38(1)(b) Statuta: običaj = splošna praksa, sprejeta kot pravo; spori po čl. IX genocidske konvencije, čl. 30 CAT",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc102",
+  "prompt": "Odbor za otrokove pravice — ključna dejstva?",
+  "answer": "CRC; komunikacije po tretjem OP",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc103",
+  "prompt": "Odbor za ESKP (CESCR) — ključna dejstva?",
+  "answer": "ustanovljen z resolucijo ECOSOC 1985/17",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc104",
+  "prompt": "Evropska socialna listina — ključna dejstva?",
+  "answer": "socialne/ekonomske pravice; kolektivne pritožbe",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc105",
+  "prompt": "Arabska listina ČP (1994; 2004/08) — ključna dejstva?",
+  "answer": "regionalni arabski sistem",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc106",
+  "prompt": "Statut ICJ čl. 38(1)(b) — ključna dejstva?",
+  "answer": "običaj = splošna praksa, sprejeta kot pravo",
+  "kind": "entity",
+  "topics": [],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc107",
+  "prompt": "[Pravica do življenja] Pravna podlaga (vir + člen)?",
+  "answer": "MPDPP čl. 6 (omejitve: smrtna kazen po sodbi, nuja, vojni akt); EKČP čl. 2; 13. protokol (odprava smrtne kazni); Afriška listina čl. 4; AmK čl. 4 (od spočetja)",
+  "kind": "topic",
+  "topics": [
+   "zivljenje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc108",
+  "prompt": "[Pravica do življenja] Kateri nadzor/postopek?",
+  "answer": "ESČP; Odbor za ČP",
+  "kind": "topic",
+  "topics": [
+   "zivljenje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc109",
+  "prompt": "[Pravica do življenja] Težave v praksi / primeri?",
+  "answer": "pozitivne obveznosti (preiskava umorov, zaščita življenja); smrtna kazen; femicid",
+  "kind": "topic",
+  "topics": [
+   "zivljenje"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc110",
+  "prompt": "[Prepoved mučenja] Pravna podlaga (vir + člen)?",
+  "answer": "CAT 1984 čl. 1 (definicija: namerna huda bolečina/trpljenje + namen + uradna oseba; izključene zakonite sankcije); čl. 2 absolutnost; čl. 3 non-refoulement; EKČP čl. 3; MPDPP čl. 7; SDČP čl. 5; jus cogens",
+  "kind": "topic",
+  "topics": [
+   "mucenje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc111",
+  "prompt": "[Prepoved mučenja] Kateri nadzor/postopek?",
+  "answer": "Odbor proti mučenju (čl. 20 preiskave, 21 meddržavne, 22 individualne); ESČP; ICJ (čl. 30) za spore; OPCAT: SPT + NPM",
+  "kind": "topic",
+  "topics": [
+   "mucenje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc112",
+  "prompt": "[Prepoved mučenja] Težave v praksi / primeri?",
+  "answer": "Tate 2013 — absolutna prepoved v praksi zataji (tajni pripori, izročitev, »ticking bomb«)",
+  "kind": "topic",
+  "topics": [
+   "mucenje"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc113",
+  "prompt": "[Varstvo pred prisilnimi izginotji] Pravna podlaga (vir + člen)?",
+  "answer": "ICPED 2006: čl. 1 nederogabilnost; čl. 2 definicija (odvzem svobode + zanikanje usode); čl. 4 kriminalizacija; čl. 5 široka praksa = zločin proti človeškosti; čl. 6 odgovornost nadrejenih",
+  "kind": "topic",
+  "topics": [
+   "izginotja"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc114",
+  "prompt": "[Varstvo pred prisilnimi izginotji] Kateri nadzor/postopek?",
+  "answer": "Odbor za prisilna izginotja (individualne + meddržavne); ESČP; Medameriško sodišče",
+  "kind": "topic",
+  "topics": [
+   "izginotja"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc115",
+  "prompt": "[Varstvo pred prisilnimi izginotji] Težave v praksi / primeri?",
+  "answer": "Velásquez-Rodríguez — država odgovorna, če ne preiskuje/preprečuje (clandestine repression)",
+  "kind": "topic",
+  "topics": [
+   "izginotja"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc116",
+  "prompt": "[Otrokove pravice] Pravna podlaga (vir + člen)?",
+  "answer": "CRC 1989 (res. 44/25): čl. 1 (<18); čl. 3 najboljša korist; P2 (oboroženi konflikti, prostitucija/pornografija); P3 (komunikacijski postopek, 2011); 196 ratifikacij (ne ZDA); Afriška listina o otrokih 1990",
+  "kind": "topic",
+  "topics": [
+   "otroci"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc117",
+  "prompt": "[Otrokove pravice] Kateri nadzor/postopek?",
+  "answer": "Odbor za otrokove pravice (P3)",
+  "kind": "topic",
+  "topics": [
+   "otroci"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc118",
+  "prompt": "[Otrokove pravice] Težave v praksi / primeri?",
+  "answer": "Holzscheiter 2019 (child rights governance); neregistrirani otroci (~290 mio), kobalt/Kongo, otroci vojaki (Sirija, Sudan, Ukrajina)",
+  "kind": "topic",
+  "topics": [
+   "otroci"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc119",
+  "prompt": "[Pravice žensk] Pravna podlaga (vir + člen)?",
+  "answer": "CEDAW 1979 (res. 34/180) čl. 1 (diskriminacija); OP 1999 (individualne pritožbe + preiskave); Deklaracija 1967; Pekinška 1995; Istanbulska konvencija 2011 (nasilje); 189 ratifikacij (ZDA ne)",
+  "kind": "topic",
+  "topics": [
+   "zenske"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc120",
+  "prompt": "[Pravice žensk] Kateri nadzor/postopek?",
+  "answer": "CEDAW Odbor",
+  "kind": "topic",
+  "topics": [
+   "zenske"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc121",
+  "prompt": "[Pravice žensk] Težave v praksi / primeri?",
+  "answer": "Mohajan 2022 — 4 valove feminizma (1: volilna pravica; 2: 1960s–90s delo/nasilje; 3: 1990s–2000s; 4: 2012+ digitalna, #MeToo); femicid; plače",
+  "kind": "topic",
+  "topics": [
+   "zenske"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc122",
+  "prompt": "[Pravice oseb z invalidnostjo] Pravna podlaga (vir + člen)?",
+  "answer": "CRPD 2006: čl. 2 (univerzalno oblikovanje; primerna prilagoditev — odklonitev = diskriminacija); čl. 9 dostopnost; čl. 12 pravna sposobnost",
+  "kind": "topic",
+  "topics": [
+   "invalidi"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc123",
+  "prompt": "[Pravice oseb z invalidnostjo] Kateri nadzor/postopek?",
+  "answer": "CRPD Odbor (+ OP)",
+  "kind": "topic",
+  "topics": [
+   "invalidi"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc124",
+  "prompt": "[Pravice oseb z invalidnostjo] Težave v praksi / primeri?",
+  "answer": "Berghs 2019 — »stronger social model: a social model of human rights«; medicinski → socialni model; izolacija, institucionalizacija",
+  "kind": "topic",
+  "topics": [
+   "invalidi"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc125",
+  "prompt": "[Begunci] Pravna podlaga (vir + člen)?",
+  "answer": "Konvencija o statusu beguncev 1951 + Protokol 1967: čl. 1A(2) definicija (utemeljen strah pred preganjanjem: rasa, vera, narodnost, mnenje, socialna skupina); čl. 33 non-refoulement; SDČP čl. 14 (azil)",
+  "kind": "topic",
+  "topics": [
+   "begunci"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc126",
+  "prompt": "[Begunci] Kateri nadzor/postopek?",
+  "answer": "UNHCR; ESČP; Odbor za ČP",
+  "kind": "topic",
+  "topics": [
+   "begunci"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc127",
+  "prompt": "[Begunci] Težave v praksi / primeri?",
+  "answer": "Italy–Libya Memorandum (Di Nunzio 2023): pullbacks = kolektivni izgon + refoulement; zunanja meja EU",
+  "kind": "topic",
+  "topics": [
+   "begunci"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc128",
+  "prompt": "[Delavci migranti] Pravna podlaga (vir + člen)?",
+  "answer": "ICRMW 1990: čl. 2(1) definicija delavca migranta; nizka ratifikacija (samo države izhoda)",
+  "kind": "topic",
+  "topics": [
+   "migranti"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc129",
+  "prompt": "[Delavci migranti] Kateri nadzor/postopek?",
+  "answer": "CMW Odbor",
+  "kind": "topic",
+  "topics": [
+   "migranti"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc130",
+  "prompt": "[Delavci migranti] Težave v praksi / primeri?",
+  "answer": "razlika begunec (preganjanje) vs. migrant (ekonomski/socialni razlogi); Sredozemlje",
+  "kind": "topic",
+  "topics": [
+   "migranti"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc131",
+  "prompt": "[Ekonomske in socialne pravice] Pravna podlaga (vir + člen)?",
+  "answer": "MPESKP: čl. 2(1) progresivna realizacija + minimalne osnovne obveznosti; čl. 6 delo, 9 socialno varstvo, 12 zdravstvo, 13 izobraževanje; OP 2008 (individualne pritožbe); ESL (kolektivne pritožbe)",
+  "kind": "topic",
+  "topics": [
+   "eskp"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc132",
+  "prompt": "[Ekonomske in socialne pravice] Kateri nadzor/postopek?",
+  "answer": "Odbor za ESKP (1985, ECOSOC)",
+  "kind": "topic",
+  "topics": [
+   "eskp"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc133",
+  "prompt": "[Ekonomske in socialne pravice] Težave v praksi / primeri?",
+  "answer": "»2 najslabše implementirana člena + primeri«: stanovanje (brezdomstvo), zdravstvo (dostop), hrana (Jemen, Sudan); neoliberalizem/privatizacija (Breznik/Praznik 2024)",
+  "kind": "topic",
+  "topics": [
+   "eskp"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc134",
+  "prompt": "[Pravica do čistega okolja] Pravna podlaga (vir + člen)?",
+  "answer": "pred 1972 ni omembe (SDČP, pakta, EKČP, AmK) → Stockholmska deklaracija 1972 (rojstvo; 26 načel; UNEP) → Brundtland 1987 (trajnostni razvoj) → Rio 1992 → Aarhuška 1998 (procesne pravice) → Resolucija Sveta za ČP 2021 → A/RES/76/300 (2022)",
+  "kind": "topic",
+  "topics": [
+   "okolje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc135",
+  "prompt": "[Pravica do čistega okolja] Kateri nadzor/postopek?",
+  "answer": "Svet za ČP; ICJ advisory opinion (preveri status); ESČP posredno",
+  "kind": "topic",
+  "topics": [
+   "okolje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc136",
+  "prompt": "[Pravica do čistega okolja] Težave v praksi / primeri?",
+  "answer": "onemogočalo: suverenost nad viri, razvojne prioritete Juga, okolje kot »nova« kategorija; Held v. Montana; Ogoni/Shell (Nigerija)",
+  "kind": "topic",
+  "topics": [
+   "okolje"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc137",
+  "prompt": "[Pravica do razvoja] Pravna podlaga (vir + člen)?",
+  "answer": "Deklaracija o pravici do razvoja 1986 (res. 41/128) — NI pravno zavezujoča (politična); individualna + kolektivna",
+  "kind": "topic",
+  "topics": [
+   "razvoj"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc138",
+  "prompt": "[Pravica do razvoja] Kateri nadzor/postopek?",
+  "answer": "brez posebnega telesa",
+  "kind": "topic",
+  "topics": [
+   "razvoj"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc139",
+  "prompt": "[Pravica do razvoja] Težave v praksi / primeri?",
+  "answer": "Schrijver — potreba po konvenciji; Subedi — programski dokument; Sever–Jug razlike",
+  "kind": "topic",
+  "topics": [
+   "razvoj"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc140",
+  "prompt": "[Prepoved genocida] Pravna podlaga (vir + člen)?",
+  "answer": "Konvencija o genocidu 1948/1951: čl. II definicija (dolus specialis + 4 skupine: rasna, verska, etnična, nacionalna + 5 dejanj); čl. III kazniva dejanja; čl. VI sojenje; čl. IX ICJ; Lemkin 1944: genos + cide; Lauterpacht: individualna odgovornost; Nürnberg 1945–46; GA Res 96(I) 1946",
+  "kind": "topic",
+  "topics": [
+   "genocid"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc141",
+  "prompt": "[Prepoved genocida] Kateri nadzor/postopek?",
+  "answer": "ICJ (čl. IX); ICC (Rimski statut)",
+  "kind": "topic",
+  "topics": [
+   "genocid"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc142",
+  "prompt": "[Prepoved genocida] Težave v praksi / primeri?",
+  "answer": "Gaza → pomanjkljivosti: dokaz dolus specialis, enforcement, politika, ozke 4 skupine (brez političnih/socialnih)",
+  "kind": "topic",
+  "topics": [
+   "genocid"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc143",
+  "prompt": "[Svoboda izražanja] Pravna podlaga (vir + člen)?",
+  "answer": "SDČP čl. 19; MPDPP čl. 19; EKČP čl. 10; Afriška čl. 9; Ameriška čl. 13; Milton Areopagitica 1644 (iskanje, prejemanje, razširjanje); Švedski zakon o svobodi tiska 1766",
+  "kind": "topic",
+  "topics": [
+   "izrazanje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc144",
+  "prompt": "[Svoboda izražanja] Kateri nadzor/postopek?",
+  "answer": "ESČP; Odbor za ČP (Splošni komentar 34); 4 posebna poročevalca (Joint Declaration 2019)",
+  "kind": "topic",
+  "topics": [
+   "izrazanje"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc145",
+  "prompt": "[Svoboda izražanja] Težave v praksi / primeri?",
+  "answer": "omejitve (10(2)/19(3)): zakonita + legitimen cilj + nujna v demokratični družbi; sovražni govor, dezinformacije, algoritmi/AI; negativni (od vmešavanja) vs. pozitivni aspekt",
+  "kind": "topic",
+  "topics": [
+   "izrazanje"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc146",
+  "prompt": "[Svoboda veroizpovedi] Pravna podlaga (vir + člen)?",
+  "answer": "EKČP čl. 9; MPDPP čl. 18; SDČP 18; forum internum (prepričanje — absolutno) vs. forum externum (manifestiranje — omejljivo)",
+  "kind": "topic",
+  "topics": [
+   "veroizpoved"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc147",
+  "prompt": "[Svoboda veroizpovedi] Kateri nadzor/postopek?",
+  "answer": "ESČP; Odbor za ČP",
+  "kind": "topic",
+  "topics": [
+   "veroizpoved"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc148",
+  "prompt": "[Svoboda veroizpovedi] Težave v praksi / primeri?",
+  "answer": "verska diskriminacija; reformacija (Luther); Poročilo MVČP 2024 (Frank/Šinigoj/Jelerčič)",
+  "kind": "topic",
+  "topics": [
+   "veroizpoved"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc149",
+  "prompt": "[Pravica do samooodločbe] Pravna podlaga (vir + člen)?",
+  "answer": "MPDPP čl. 1 = MPESKP čl. 1 (identična); UL OZN 1(2), 55; Afriška listina čl. 20 (dekolonizacija); jus cogens (po nekaterih)",
+  "kind": "topic",
+  "topics": [
+   "samoodlocba"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc150",
+  "prompt": "[Pravica do samooodločbe] Kateri nadzor/postopek?",
+  "answer": "brez posebnega telesa",
+  "kind": "topic",
+  "topics": [
+   "samoodlocba"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc151",
+  "prompt": "[Pravica do samooodločbe] Težave v praksi / primeri?",
+  "answer": "kolektivni subjekt — kdo je »narod«? (Vincent); notranja/zunanja samoodločba; Palestina",
+  "kind": "topic",
+  "topics": [
+   "samoodlocba"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc152",
+  "prompt": "[Manjšinske pravice] Pravna podlaga (vir + člen)?",
+  "answer": "MPDPP čl. 27 (edini globalni zavezujoč); Deklaracija 1992; OKVNM 1995/98 (čl. 5, 6, 15); Arabska listina čl. 25; ILO 169 (domorodci)",
+  "kind": "topic",
+  "topics": [
+   "manjsine"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc153",
+  "prompt": "[Manjšinske pravice] Kateri nadzor/postopek?",
+  "answer": "Svetovalni odbor (AC, Svet Evrope); Odbor za ČP",
+  "kind": "topic",
+  "topics": [
+   "manjsine"
+  ],
+  "authority": "A",
+  "source": ""
+ },
+ {
+  "id": "fc154",
+  "prompt": "[Manjšinske pravice] Težave v praksi / primeri?",
+  "answer": "Castellino 2010; DN: varstvo manjšin za mir (diskriminatoren sistem); identiteta (jezik, kultura, vera)",
+  "kind": "topic",
+  "topics": [
+   "manjsine"
+  ],
+  "authority": "C",
+  "source": ""
+ },
+ {
+  "id": "fc155",
+  "prompt": "Kaj je: non-refoulement?",
+  "answer": "nevračanje — prepoved vračanja osebe v državo, kjer ji grozi preganjanje/mučenje",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc156",
+  "prompt": "Kaj je: jus cogens?",
+  "answer": "imperativne norme, ki zavezujejo vse države brez izjem (mučenje, genocid)",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc157",
+  "prompt": "Kaj je: persistent objector?",
+  "answer": "država, ki je dosledno nasprotovala nastajanju običajnega pravila — izjema od zavezujočnosti",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc158",
+  "prompt": "Kaj je: dolus specialis?",
+  "answer": "posebni namen uničiti zaščiteno skupino (genocid)",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc159",
+  "prompt": "Kaj je: forum internum / externum?",
+  "answer": "notranje prepričanje (absolutno) / manifestiranje vere (omejljivo)",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc160",
+  "prompt": "Kaj je: progresivna realizacija?",
+  "answer": "MPESKP čl. 2(1) — pravice uresničevati postopno, toda minimalno jedro takoj",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc161",
+  "prompt": "Kaj je: margin of appreciation?",
+  "answer": "ocenitveni prostor držav pri omejevanju pravic (ESČP doktrina)",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc162",
+  "prompt": "Kaj je: UPR?",
+  "answer": "splošni periodični pregled — vsaka država OZN pregledana vsakih 4–4,5 let",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc163",
+  "prompt": "Kaj je: treaty-based / charter-based?",
+  "answer": "pogodbeni nadzor (samo pogodbenice) / splošni nadzor (vse članice OZN)",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc164",
+  "prompt": "Kaj je: opcijski protokol?",
+  "answer": "dopolnilna pogodba (npr. individualne pritožbe); za veljavo 10 ratifikacij",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc165",
+  "prompt": "Kaj je: paradoks posesti?",
+  "answer": "formalno imaš pravico, praktično je ne uživaš (Vincent)",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc166",
+  "prompt": "Kaj je: habeas corpus?",
+  "answer": "prepoved prijetja brez zakonite sodbe (Magna Carta 39/40)",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc167",
+  "prompt": "Kaj je: dolus specialis?",
+  "answer": "posebni namen (genocid) — najtežje za dokazati",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc168",
+  "prompt": "Kaj je: zadržek (reservation)?",
+  "answer": "državina izjava, kako bo razumela določilo pogodbe — prvi filter ratifikacij",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc169",
+  "prompt": "Kaj je: clandestine repression?",
+  "answer": "skrito državno nasilje (prisilna izginotja) — Velásquez-Rodríguez",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ },
+ {
+  "id": "fc170",
+  "prompt": "Kaj je: backlog / zamašitev?",
+  "answer": "preobremenjenost ESČP — razlog za Protokol 14",
+  "kind": "glossary",
+  "topics": [],
+  "authority": "B",
+  "source": ""
+ }
+]

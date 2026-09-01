@@ -1,0 +1,1424 @@
+{
+ "entities": [
+  {
+   "id": "hamurabi",
+   "type": "history",
+   "typeSl": "zgodovina",
+   "label": "Hamurabijev zakonik (~1700 pr.n.št.)",
+   "facts": "282 zakonov, zapisani, javni, akadijski jezik; predpostavka nedolžnosti; dokazi obeh strani; varstvo šibkejšega",
+   "authority": "B"
+  },
+  {
+   "id": "magna_carta",
+   "type": "history",
+   "typeSl": "zgodovina",
+   "label": "Magna Carta Libertatum (1215)",
+   "facts": "habeas corpus (določili 39/40); kralj podrejen zakonu; koristniki fevdalni sloji; nadzor: 25 baronov",
+   "authority": "B"
+  },
+  {
+   "id": "angleska_listina",
+   "type": "history",
+   "typeSl": "zgodovina",
+   "label": "Angleška listina pravic (1689)",
+   "facts": "suverenost parlamenta; svoboda govora v parlamentu; svobodne volitve; prepoved krutih kazni",
+   "authority": "B"
+  },
+  {
+   "id": "deklaracija_zda",
+   "type": "history",
+   "typeSl": "zgodovina",
+   "label": "Deklaracija neodvisnosti ZDA (1776)",
+   "facts": "naravne, prirojene, neodtujljive pravice; izključeni sužnji/ženske/staroselci",
+   "authority": "B"
+  },
+  {
+   "id": "francoska_deklaracija",
+   "type": "history",
+   "typeSl": "zgodovina",
+   "label": "Francoska deklaracija (1789)",
+   "facts": "univerzalnost; suverenost ljudstva; čl. 1, 5, 7, 10, 12, 13",
+   "authority": "B"
+  },
+  {
+   "id": "dn",
+   "type": "history",
+   "typeSl": "zgodovina",
+   "label": "Društvo narodov (1920)",
+   "facts": "Pakt NE omenja ČP; varstvo manjšin = za mir/stabilnost novih meja, diskriminatoren sistem (poražene+nove+vstopajoče)",
+   "authority": "B"
+  },
+  {
+   "id": "ul_ozn",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Ustanovna listina OZN (1945)",
+   "facts": "čl. 1(3): razvijati in spodbujati spoštovanje ČP; NI seznama ČP",
+   "authority": "A"
+  },
+  {
+   "id": "sdcp",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "SDČP / UDHR (1948)",
+   "facts": "res. GS 217 A (III), 10.12.1948; 30 členov; politično (ne pravno) zavezujoča; čl. 1 dostojanstvo, čl. 2 nediskriminacija",
+   "authority": "A"
+  },
+  {
+   "id": "dunaj_1993",
+   "type": "history",
+   "typeSl": "zgodovina",
+   "label": "Svetovna konferenca ČP, Dunaj (1993)",
+   "facts": "eksplicitna potrditev nedeljivosti ČP po padcu Berlinskega zidu",
+   "authority": "B"
+  },
+  {
+   "id": "mpdpp",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "MPDPP / ICCPR (1966/1976)",
+   "facts": "res. 2200 A (XXI); 35 ratifikacij za veljavo; čl. 6 življenje, 7 mučenje, 18 veroizpoved, 19 izražanje, 27 manjšine, 28 Odbor",
+   "authority": "A"
+  },
+  {
+   "id": "mpeskp",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "MPESKP / ICESCR (1966/1976)",
+   "facts": "čl. 1 samoodločba (identična MPDPP); čl. 2(1) progresivna realizacija; poročanje ECOSOC; Odbor za ESKP ustanovljen z resolucijo ECOSOC 1985/17",
+   "authority": "A"
+  },
+  {
+   "id": "ekcp",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "EKČP (1950/53)",
+   "facts": "čl. 2 življenje, 3 mučenje, 9 veroizpoved, 10 izražanje, 14 nediskriminacija, 34 individualne pritožbe, 35 dopustnost, 46 zavezujočost sodb",
+   "authority": "A"
+  },
+  {
+   "id": "cat",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "CAT — Konvencija proti mučenju (1984)",
+   "facts": "čl. 1 definicija (severe pain, uradna oseba); čl. 2 absolutnost; čl. 3 non-refoulement; čl. 21/22 pritožbe; čl. 30 ICJ",
+   "authority": "A"
+  },
+  {
+   "id": "opcat",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "OPCAT (2002) — preventiva",
+   "facts": "SPT + NPM; redni obiski krajev pripora",
+   "authority": "A"
+  },
+  {
+   "id": "cedaw",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "CEDAW (1979, res. 34/180)",
+   "facts": "čl. 1 diskriminacija; OP 1999 (individualne pritožbe + preiskave); 189 ratifikacij, ZDA ne",
+   "authority": "A"
+  },
+  {
+   "id": "crc",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "CRC — Konvencija o otrokovih pravicah (1989)",
+   "facts": "čl. 1 (<18); čl. 3 najboljša korist; 196 ratifikacij (ne ZDA); P2 (konflikti), P3 (individualne pritožbe 2011)",
+   "authority": "A"
+  },
+  {
+   "id": "crpd",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "CRPD (2006)",
+   "facts": "čl. 2 univerzalno oblikovanje + primerna prilagoditev; čl. 9 dostopnost; čl. 12 pravna sposobnost; socialni model",
+   "authority": "A"
+  },
+  {
+   "id": "icped",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "ICPED — prisilna izginotja (2006)",
+   "facts": "čl. 1 nederogabilnost; čl. 2 definicija; čl. 4 kriminalizacija; čl. 5 zločin proti človeškosti; čl. 6 nadrejeni",
+   "authority": "A"
+  },
+  {
+   "id": "icrmw",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "ICRMW — delavci migranti (1990)",
+   "facts": "čl. 2(1) definicija delavca migranta; nizka ratifikacija",
+   "authority": "A"
+  },
+  {
+   "id": "konvencija_begunci",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Konvencija o statusu beguncev (1951 + Protokol 1967)",
+   "facts": "čl. 1A(2) definicija (preganjanje: rasa/vera/narodnost/mnenje/socialna skupina); čl. 33 non-refoulement",
+   "authority": "A"
+  },
+  {
+   "id": "konvencija_genocid",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Konvencija o genocidu (1948/1951)",
+   "facts": "čl. II definicija (dolus specialis, 4 skupine, 5 dejanj); čl. III kazniva dejanja; čl. VI sojenje; čl. IX ICJ",
+   "authority": "A"
+  },
+  {
+   "id": "op_mpeskp",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Opcijski protokol k MPESKP (2008)",
+   "facts": "individualne + meddržavne pritožbe + preiskave",
+   "authority": "A"
+  },
+  {
+   "id": "op_cedaw",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Izbirni protokol h CEDAW (1999)",
+   "facts": "individualne pritožbe/skupine; ne anonimno; po izčrpanju domačih sredstev; zaprta sestanki",
+   "authority": "A"
+  },
+  {
+   "id": "a_res_76_300",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "A/RES/76/300 (2022) — pravica do okolja",
+   "facts": "GS OZN priznala pravico do čistega, zdravega in trajnostnega okolja; predhodnica: Resolucija Sveta za ČP 2021",
+   "authority": "A"
+  },
+  {
+   "id": "stockholm",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Stockholmska deklaracija (1972)",
+   "facts": "rojstvo pravice do okolja; 26 načel; UNEP; pred 1972 ni omembe okolja v SDČP/paktih/EKČP",
+   "authority": "A"
+  },
+  {
+   "id": "deklaracija_razvoj",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Deklaracija o pravici do razvoja (1986, res. 41/128)",
+   "facts": "NI pravno zavezujoča (politična); individualna + kolektivna",
+   "authority": "A"
+  },
+  {
+   "id": "arhuska",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Aarhuška konvencija (1998)",
+   "facts": "procesne pravice okolja: informacije, sodelovanje, pravno varstvo",
+   "authority": "A"
+  },
+  {
+   "id": "istanbulska",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Istanbulska konvencija (2011)",
+   "facts": "nasilje nad ženskami in nasilje v družini",
+   "authority": "A"
+  },
+  {
+   "id": "okvnm",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "OKVNM — Okvirna konvencija za varstvo narodnih manjšin (1995/98)",
+   "facts": "čl. 5, 6, 15",
+   "authority": "A"
+  },
+  {
+   "id": "p14",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Protokol št. 14 k EKČP (2004)",
+   "facts": "reforma ESČP zaradi zamašitve; mandat sodnikov 9 let brez ponovne izvolitve (čl. 23); formacije: posamezni sodnik, komisije (3), senati (7), Veliki senat (17)",
+   "authority": "A"
+  },
+  {
+   "id": "zenevske",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Ženevske konvencije (1864/1949)",
+   "facts": "humanitarno pravo; mučenje prvič sistematično (vojni ujetniki)",
+   "authority": "A"
+  },
+  {
+   "id": "odbor_cp",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "Odbor za človekove pravice (treaty-based, MPDPP)",
+   "facts": "18 neodvisnih strokovnjakov; poročila držav + priporočila; NI enako Svet za ČP (prof. poudarja)",
+   "authority": "A"
+  },
+  {
+   "id": "svet_cp",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "Svet za človekove pravice (2006)",
+   "facts": "47 držav (tajno glasovanje, regionalno načelo); UPR vs. ~4,5 let; posebni postopki; complaint procedure za vzorce hudih kršitev",
+   "authority": "A"
+  },
+  {
+   "id": "komisija_cp",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "Komisija za ČP (1946–2006)",
+   "facts": "pomožno telo ECOSOC; preveč politizirana, v njej kršiteljice → reforma 2006",
+   "authority": "B"
+  },
+  {
+   "id": "ohchr",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "OHCHR — Visoki komisar za ČP",
+   "facts": "sekretariat pogodbenih teles",
+   "authority": "A"
+  },
+  {
+   "id": "cescr",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "Odbor za ESKP (1985)",
+   "facts": "delovno telo ECOSOC; strokovnjaki",
+   "authority": "A"
+  },
+  {
+   "id": "escp",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "ESČP — Evropsko sodišče za človekove pravice",
+   "facts": "sodnik iz vsake države; mandat 9 let, brez ponovne izvolitve, do 70. leta; izvolitev: Parlamentarna skupščina SE; formacije: posamezni sodnik/komisije(3)/senati(7)/Veliki senat(17); sodba zavezujoča (čl. 46); P14 = reforma backloga",
+   "authority": "A"
+  },
+  {
+   "id": "odbor_ministrov",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "Odbor ministrov Sveta Evrope",
+   "facts": "izvršuje sodbe ESČP; lahko zahteva svetovalno mnenje",
+   "authority": "A"
+  },
+  {
+   "id": "upr",
+   "type": "procedure",
+   "typeSl": "postopek",
+   "label": "UPR — Splošni periodični pregled",
+   "facts": "vsak 4–4,5 leta; poročilo države + shadow reports + poročila OZN; priporočila NEobvezna; politizacija",
+   "authority": "A"
+  },
+  {
+   "id": "icj",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "Meddržavno sodišče (ICJ)",
+   "facts": "čl. 38(1)(b) Statuta: običaj = splošna praksa, sprejeta kot pravo; spori po čl. IX genocidske konvencije, čl. 30 CAT",
+   "authority": "A"
+  },
+  {
+   "id": "vincent_5",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Vincent (1986): 5 elementov pravice",
+   "facts": "subjekt (individualne/kolektivne); objekt (do/pred); uveljavljanje (paradoks posesti); nosilec dolžnosti (Shue: 3 dolžnosti); utemeljitev",
+   "authority": "B"
+  },
+  {
+   "id": "nacela_cp",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Načela: univerzalnost, neodtujljivost, nedeljivost, soodvisnost, nediskriminacija",
+   "facts": "Dunaj 1993: nedeljivost po padcu Berlinskega zidu; ni izbire ALI/ALI med pakta",
+   "authority": "B"
+  },
+  {
+   "id": "generacije",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "3 generacije ČP (1: civilno-politične; 2: ekonomske-socialne; 3: solidarnostne)",
+   "facts": "Macklem: 'three generations or one?'; nedeljivost (Dunaj 1993)",
+   "authority": "B"
+  },
+  {
+   "id": "jus_cogens",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Jus cogens (imperativne norme)",
+   "facts": "prepoved mučenja, genocida; brez persistent objector izjeme",
+   "authority": "A"
+  },
+  {
+   "id": "obicajno_pravo",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Mednarodno običajno pravo",
+   "facts": "state practice + opinio juris; ICJ Statut čl. 38(1)(b); zavezuje vse; izjema: persistent objector",
+   "authority": "A"
+  },
+  {
+   "id": "nediskriminacija",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Načelo nediskriminacije",
+   "facts": "UL OZN 1(3); SDČP 2; MPDPP 2(1); MPESKP 2(2); EKČP 14; osnova se širi z novimi dokumenti",
+   "authority": "B"
+  },
+  {
+   "id": "non_refoulement",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Non-refoulement (nevračanje)",
+   "facts": "CAT čl. 3; Konvencija o beguncih čl. 33; del običajnega prava",
+   "authority": "A"
+  },
+  {
+   "id": "progresivna_realizacija",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Progresivna realizacija (MPESKP čl. 2(1))",
+   "facts": "+ minimalne osnovne obveznosti",
+   "authority": "A"
+  },
+  {
+   "id": "margin_appreciation",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Sorazmernost / margin of appreciation / nujna v demokratični družbi",
+   "facts": "EKČP čl. 10(2), 9(2): zakonita, legitimen cilj, nujna v demokratični družbi",
+   "authority": "B"
+  },
+  {
+   "id": "kulturni_relativizem",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Kulturni relativizem vs. univerzalnost",
+   "facts": "Sen: azijske vrednote ≠ ovira, izgovor avtoritarnih režimov; Jenco 2013; Lind 2009; delavnica v Izvedbenem načrtu",
+   "authority": "B"
+  },
+  {
+   "id": "populizem",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Populizem in institucije ČP",
+   "facts": "Roth 2017; Helfer 2020: survival guide",
+   "authority": "C"
+  },
+  {
+   "id": "posession_paradox",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Paradoks posesti (formalna vs. dejanska pravica)",
+   "facts": "Vincent; formalno imaš pravico, praktično je ne uživaš",
+   "authority": "B"
+  },
+  {
+   "id": "individualne_pritozbe",
+   "type": "procedure",
+   "typeSl": "postopek",
+   "label": "Individualne pritožbe (opcijski protokoli / posebni členi)",
+   "facts": "OP MPDPP 1 (1966/76), OP CEDAW 1999, CAT čl. 22, OP ICESCR 2008, OP CRC 2011, CRPD OP, ICPED; pogoj: izčrpanje domačih sredstev",
+   "authority": "A"
+  },
+  {
+   "id": "meddrzavne_pritozbe",
+   "type": "procedure",
+   "typeSl": "postopek",
+   "label": "Meddržavne pritožbe",
+   "facts": "MPDPP čl. 41; CAT čl. 21; občutljive (suverenost)",
+   "authority": "A"
+  },
+  {
+   "id": "preiskovalni_postopek",
+   "type": "procedure",
+   "typeSl": "postopek",
+   "label": "Preiskovalni postopek (inquiry)",
+   "facts": "CAT čl. 20; OP CEDAW čl. 8; OP ICESCR čl. 10",
+   "authority": "A"
+  },
+  {
+   "id": "kolektivne_pritozbe_esl",
+   "type": "procedure",
+   "typeSl": "postopek",
+   "label": "Kolektivne pritožbe (ESL)",
+   "facts": "sindikati/NGO → Odbor neodvisnih strokovnjakov → Odbor ministrov (priporočilo, ne zavezujoče)",
+   "authority": "B"
+  },
+  {
+   "id": "neobvezna_priporocila",
+   "type": "problem",
+   "typeSl": "težava",
+   "label": "Priporočila nadzornih teles niso pravno zavezujoča",
+   "facts": "UPR, odborji: država lahko sprejme/delno/zavrne",
+   "authority": "B"
+  },
+  {
+   "id": "politicizacija",
+   "type": "problem",
+   "typeSl": "težava",
+   "label": "Politicizacija nadzornih teles",
+   "facts": "Komisija za ČP: kršiteljice v njej, politične agende → reforma 2006",
+   "authority": "B"
+  },
+  {
+   "id": "zadrzki",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Zadržek (reservation) — prvi filter ratifikacij",
+   "facts": "država zapiše, kako bo razumela določilo",
+   "authority": "B"
+  },
+  {
+   "id": "dokaz_dolus_specialis",
+   "type": "problem",
+   "typeSl": "težava",
+   "label": "Dokazovanje dolus specialis (genocid)",
+   "facts": "najtežji dokazni element; Gaza primer",
+   "authority": "C"
+  },
+  {
+   "id": "enforcement",
+   "type": "problem",
+   "typeSl": "težava",
+   "label": "Pomanjkanje izvršitve (enforcement gap)",
+   "facts": "nadzorna telesa brez executive power; 'naming and shaming'",
+   "authority": "C"
+  },
+  {
+   "id": "suverenost_ovira",
+   "type": "problem",
+   "typeSl": "težava",
+   "label": "Državna suverenost kot ovira",
+   "facts": "nevmešavanje v notranje zadeve; meddržavne pritožbe občutljive",
+   "authority": "B"
+  },
+  {
+   "id": "gaza",
+   "type": "case",
+   "typeSl": "primer",
+   "label": "Gaza — pomanjkljivosti konvencije o genocidu",
+   "facts": "dolus specialis, enforcement, politika",
+   "authority": "C"
+  },
+  {
+   "id": "ukrajina",
+   "type": "case",
+   "typeSl": "primer",
+   "label": "Ukrajina: 2 najbolj kršeni normi (življenje, mučenje/izginotja)",
+   "facts": "2. rok 2026 vprašanje",
+   "authority": "E"
+  },
+  {
+   "id": "held_montana",
+   "type": "case",
+   "typeSl": "primer",
+   "label": "Held v. Montana (klimatska sodba)",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "ogoni_shell",
+   "type": "case",
+   "typeSl": "primer",
+   "label": "Ogoni/Shell (Nigerija) — onesnaževanje",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "velasquez",
+   "type": "case",
+   "typeSl": "primer",
+   "label": "Velásquez-Rodríguez (Medameriško sodišče) — prisilna izginotja",
+   "facts": "država odgovorna, če ne preiskuje/preprečuje clandestine repression",
+   "authority": "C"
+  },
+  {
+   "id": "italy_libya",
+   "type": "case",
+   "typeSl": "primer",
+   "label": "Italy–Libya Memorandum (Di Nunzio 2023) — pullbacks, refoulement",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "citizenfour",
+   "type": "case",
+   "typeSl": "primer",
+   "label": "Citizenfour — zasebnost, tehnologija, nadzor (film, teden 16)",
+   "facts": "",
+   "authority": "B"
+  },
+  {
+   "id": "vincent",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Vincent (1986): 5 elementov pravice",
+   "facts": "",
+   "authority": "B"
+  },
+  {
+   "id": "shue",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Shue: 3 korelativne dolžnosti",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "sen",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Amartya Sen: Human rights and Asian values (2015)",
+   "facts": "kulturni relativizem = izgovor; univerzalnost združljiva z azijskimi tradicijami",
+   "authority": "B"
+  },
+  {
+   "id": "lemkin",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Raphael Lemkin (1944): genos + cide",
+   "facts": "",
+   "authority": "A"
+  },
+  {
+   "id": "lauterpacht",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Hersch Lauterpacht: individualna kazenska odgovornost",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "helfer",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Helfer 2020: Populism and International Human Rights Institutions",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "macklem",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Macklem 2015: three generations or one?",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "tate",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Tate 2013: učinkovitost UNCAT",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "berghs",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Berghs et al. 2019: socialni model človekovih pravic",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "dininunzio",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Di Nunzio 2023: Italy–Libya Memorandum",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "holzscheiter",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Holzscheiter et al. 2019: child rights governance",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "mohajan",
+   "type": "author",
+   "typeSl": "avtor",
+   "label": "Mohajan 2022: Four Waves of Feminism",
+   "facts": "",
+   "authority": "C"
+  },
+  {
+   "id": "q_nadzorni_mehanizmi",
+   "type": "exam",
+   "typeSl": "izpit",
+   "label": "Izpit: 2 vrsti nadzornih mehanizmov + primeri",
+   "facts": "",
+   "authority": "E"
+  },
+  {
+   "id": "q_vincent",
+   "type": "exam",
+   "typeSl": "izpit",
+   "label": "Izpit: 5 elementov pravice (Vincent) + uporaba",
+   "facts": "",
+   "authority": "E"
+  },
+  {
+   "id": "q_odbor_svet",
+   "type": "exam",
+   "typeSl": "izpit",
+   "label": "Izpit: Odbor vs. Svet vs. Komisija za ČP",
+   "facts": "",
+   "authority": "E"
+  },
+  {
+   "id": "q_escp",
+   "type": "exam",
+   "typeSl": "izpit",
+   "label": "Izpit: ESČP — sodniki, mandat, volitve, naloge",
+   "facts": "",
+   "authority": "E"
+  },
+  {
+   "id": "q_obicaj",
+   "type": "exam",
+   "typeSl": "izpit",
+   "label": "Izpit: običajno pravo vs. člen; persistent objector; jus cogens",
+   "facts": "",
+   "authority": "E"
+  },
+  {
+   "id": "q_upr",
+   "type": "exam",
+   "typeSl": "izpit",
+   "label": "Izpit: UPR — potek + ocena",
+   "facts": "",
+   "authority": "E"
+  },
+  {
+   "id": "q_individualne",
+   "type": "exam",
+   "typeSl": "izpit",
+   "label": "Izpit: individualne komunikacije — v katerih pogodbah",
+   "facts": "",
+   "authority": "E"
+  },
+  {
+   "id": "q_ratifikacije",
+   "type": "exam",
+   "typeSl": "izpit",
+   "label": "Ratifikacijska omrežja: 3 obdobja",
+   "facts": "",
+   "authority": "E"
+  },
+  {
+   "id": "q_vecnivojski",
+   "type": "exam",
+   "typeSl": "izpit",
+   "label": "Izpit: večnivojski režim + nivoji",
+   "facts": "",
+   "authority": "E"
+  },
+  {
+   "id": "mat_master_skripta",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "master-skripta-mvcp.pdf — členski kazipot",
+   "facts": "",
+   "authority": "D"
+  },
+  {
+   "id": "mat_odgovori_2026",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "izpitni-odgovori-mvcp-2026.pdf (rešitve 1.+2. rok)",
+   "facts": "",
+   "authority": "D+E"
+  },
+  {
+   "id": "mat_kolokvij_prof",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "MVČP - 1. kolokvij.docx (profesorici zapiski)",
+   "facts": "",
+   "authority": "B"
+  },
+  {
+   "id": "mat_vprasanja",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "mvčp-vprašanja.docx (banka vprašanj z odgovori)",
+   "facts": "",
+   "authority": "B"
+  },
+  {
+   "id": "mat_zgo_nadzor",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "MVČP - zgo, nadzorni mehanizmi (zapiski itn)",
+   "facts": "",
+   "authority": "D"
+  },
+  {
+   "id": "mat_must_memorize",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "must_memorize_1page.md",
+   "facts": "",
+   "authority": "D"
+  },
+  {
+   "id": "mat_povzetek_mucenje",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "p. 2. povzetek-prepoved-mucenja-v2.pdf",
+   "facts": "",
+   "authority": "D"
+  },
+  {
+   "id": "mat_povzetek_okolje",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "p. 10. povzetek-pravica-do-okolja.pdf",
+   "facts": "",
+   "authority": "D"
+  },
+  {
+   "id": "mat_povzetek_genocid",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "p. 10. povzetek-prepoved-genocida.pdf",
+   "facts": "",
+   "authority": "D"
+  },
+  {
+   "id": "mat_povzetek_izrazanje",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "p. 13. povzetek-svoboda-izrazanja.pdf",
+   "facts": "",
+   "authority": "D"
+  },
+  {
+   "id": "mat_povzetek_zenske",
+   "type": "material",
+   "typeSl": "gradivo",
+   "label": "p. 3. povzetek-pravice-zensk.pdf",
+   "facts": "",
+   "authority": "D"
+  },
+  {
+   "id": "pravica_do_zivljenja",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Pravica do življenja",
+   "facts": "MPDPP 6; EKČP 2; pozitivne in procesne obveznosti",
+   "authority": "A"
+  },
+  {
+   "id": "mučenje",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Prepoved mučenja",
+   "facts": "SDČP 5; MPDPP 7; CAT 1–3; EKČP 3; jus cogens",
+   "authority": "A"
+  },
+  {
+   "id": "veroizpoved",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Svoboda veroizpovedi",
+   "facts": "MPDPP 18; EKČP 9; forum internum/externum",
+   "authority": "A"
+  },
+  {
+   "id": "izražanje",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Svoboda izražanja",
+   "facts": "SDČP 19; MPDPP 19; EKČP 10",
+   "authority": "A"
+  },
+  {
+   "id": "manjšine",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Manjšinske pravice",
+   "facts": "MPDPP 27; Deklaracija 1992; OKVNM",
+   "authority": "A"
+  },
+  {
+   "id": "samoodločba",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Pravica do samooodločbe",
+   "facts": "MPDPP 1 = MPESKP 1; UL OZN 1(2)",
+   "authority": "A"
+  },
+  {
+   "id": "ekonomske_socialne",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Ekonomske, socialne in kulturne pravice",
+   "facts": "MPESKP; progresivna realizacija; minimalno jedro",
+   "authority": "A"
+  },
+  {
+   "id": "pravice_žensk",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Pravice žensk",
+   "facts": "CEDAW 1979; OP 1999; Istanbulska 2011",
+   "authority": "A"
+  },
+  {
+   "id": "otrokove_pravice",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Otrokove pravice",
+   "facts": "CRC 1989; čl. 1 in 3; trije opcijski protokoli",
+   "authority": "A"
+  },
+  {
+   "id": "invalidi",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Pravice oseb z invalidnostjo",
+   "facts": "CRPD 2006; socialni model; primerna prilagoditev",
+   "authority": "A"
+  },
+  {
+   "id": "izginotja",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Varstvo pred prisilnimi izginotji",
+   "facts": "ICPED 2006",
+   "authority": "A"
+  },
+  {
+   "id": "begunci",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Pravice beguncev",
+   "facts": "Konvencija 1951 čl. 1A(2) in 33",
+   "authority": "A"
+  },
+  {
+   "id": "migranti",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Pravice delavcev migrantov",
+   "facts": "ICRMW 1990",
+   "authority": "A"
+  },
+  {
+   "id": "okolje",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Pravica do čistega, zdravega in trajnostnega okolja",
+   "facts": "Stockholm 1972 → A/RES/76/300 2022",
+   "authority": "A"
+  },
+  {
+   "id": "genocid",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Prepoved genocida",
+   "facts": "Konvencija 1948; dolus specialis",
+   "authority": "A"
+  },
+  {
+   "id": "razvoj",
+   "type": "right",
+   "typeSl": "pravica",
+   "label": "Pravica do razvoja",
+   "facts": "Deklaracija 1986 — nezavezujoča",
+   "authority": "B"
+  },
+  {
+   "id": "koncept_čp",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Koncept človekovih pravic",
+   "facts": "dostojanstvo; nediskriminacija; omejena moč države",
+   "authority": "B"
+  },
+  {
+   "id": "odbor_mucenje",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "Odbor proti mučenju",
+   "facts": "CAT čl. 20/21/22",
+   "authority": "A"
+  },
+  {
+   "id": "odbor_otroci",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "Odbor za otrokove pravice",
+   "facts": "CRC; komunikacije po tretjem OP",
+   "authority": "A"
+  },
+  {
+   "id": "odbor_eskp",
+   "type": "institution",
+   "typeSl": "institucija",
+   "label": "Odbor za ESKP (CESCR)",
+   "facts": "ustanovljen z resolucijo ECOSOC 1985/17",
+   "authority": "A"
+  },
+  {
+   "id": "esl",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Evropska socialna listina",
+   "facts": "socialne/ekonomske pravice; kolektivne pritožbe",
+   "authority": "A"
+  },
+  {
+   "id": "afriška_listina",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Afriška listina ČP in pravic ljudstev (1981/86)",
+   "facts": "čl. 20 samoodločba",
+   "authority": "A"
+  },
+  {
+   "id": "arabska_listina",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Arabska listina ČP (1994; 2004/08)",
+   "facts": "regionalni arabski sistem",
+   "authority": "A"
+  },
+  {
+   "id": "azija",
+   "type": "problem",
+   "typeSl": "težava",
+   "label": "Azija — brez enotne regionalne listine ČP",
+   "facts": "poveži z razpravo o azijskih vrednotah",
+   "authority": "B"
+  },
+  {
+   "id": "icj_statut_38",
+   "type": "treaty",
+   "typeSl": "pogodba",
+   "label": "Statut ICJ čl. 38(1)(b)",
+   "facts": "običaj = splošna praksa, sprejeta kot pravo",
+   "authority": "A"
+  },
+  {
+   "id": "persistent_objector",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Persistent objector",
+   "facts": "izjema od običaja; ne velja za jus cogens",
+   "authority": "A"
+  },
+  {
+   "id": "dolžnosti",
+   "type": "concept",
+   "typeSl": "koncept",
+   "label": "Tri korelativne dolžnosti po Shueju",
+   "facts": "izogibanje prikrajšanju; zaščita; pomoč",
+   "authority": "C"
+  },
+  {
+   "id": "kolektivne_pritozbe",
+   "type": "procedure",
+   "typeSl": "postopek",
+   "label": "Kolektivne pritožbe po ESL",
+   "facts": "",
+   "authority": "A"
+  },
+  {
+   "id": "azija_brez_listine",
+   "type": "problem",
+   "typeSl": "težava",
+   "label": "Azija: ni regionalne listine ČP",
+   "facts": "",
+   "authority": "B"
+  }
+ ],
+ "edges": [
+  {
+   "source": "mpdpp",
+   "target": "odbor_cp",
+   "relation": "establishes",
+   "authority": "A",
+   "note": "čl. 28: 18 neodvisnih strokovnjakov"
+  },
+  {
+   "source": "mpdpp",
+   "target": "pravica_do_zivljenja",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 6"
+  },
+  {
+   "source": "mpdpp",
+   "target": "mučenje",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 7"
+  },
+  {
+   "source": "mpdpp",
+   "target": "veroizpoved",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 18"
+  },
+  {
+   "source": "mpdpp",
+   "target": "izražanje",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 19"
+  },
+  {
+   "source": "mpdpp",
+   "target": "manjšine",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 27"
+  },
+  {
+   "source": "mpdpp",
+   "target": "samoodločba",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 1 = MPESKP čl. 1"
+  },
+  {
+   "source": "mpdpp",
+   "target": "odbor_cp",
+   "relation": "monitored_by",
+   "authority": "A",
+   "note": "pogodbeni nadzor: poročila (čl. 40) + priporočila"
+  },
+  {
+   "source": "mpdpp",
+   "target": "individualne_pritozbe",
+   "relation": "permits_complaint_to",
+   "authority": "A",
+   "note": "1. opcijski protokol; MPDPP čl. 41 ureja meddržavne komunikacije"
+  },
+  {
+   "source": "odbor_cp",
+   "target": "svet_cp",
+   "relation": "differs_from",
+   "authority": "B",
+   "note": "treaty-based, 18 strokovnjakov ≠ charter-based, 47 držav"
+  },
+  {
+   "source": "mpeskp",
+   "target": "odbor_eskp",
+   "relation": "monitored_by",
+   "authority": "A",
+   "note": "poročanje poteka prek ECOSOC; CESCR ustanovljen z resolucijo ECOSOC 1985/17"
+  },
+  {
+   "source": "mpeskp",
+   "target": "ekonomske_socialne",
+   "relation": "protects",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "mpeskp",
+   "target": "progresivna_realizacija",
+   "relation": "establishes",
+   "authority": "A",
+   "note": "čl. 2(1)"
+  },
+  {
+   "source": "mpeskp",
+   "target": "individualne_pritozbe",
+   "relation": "permits_complaint_to",
+   "authority": "A",
+   "note": "OP 2008"
+  },
+  {
+   "source": "cat",
+   "target": "mučenje",
+   "relation": "protects",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "cat",
+   "target": "odbor_mucenje",
+   "relation": "establishes",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "cat",
+   "target": "non_refoulement",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 3"
+  },
+  {
+   "source": "cat",
+   "target": "opcat",
+   "relation": "supplemented_by",
+   "authority": "A",
+   "note": "preventiva: SPT + NPM"
+  },
+  {
+   "source": "cat",
+   "target": "icj",
+   "relation": "disputes_to",
+   "authority": "A",
+   "note": "čl. 30"
+  },
+  {
+   "source": "ekcp",
+   "target": "escp",
+   "relation": "establishes",
+   "authority": "A",
+   "note": "čl. 19; sodnik iz vsake države; mandat 9 let (P14 čl. 23)"
+  },
+  {
+   "source": "ekcp",
+   "target": "izražanje",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 10; omejitve čl. 10(2): nujna v demokratični družbi"
+  },
+  {
+   "source": "ekcp",
+   "target": "veroizpoved",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 9: forum internum absoluten, externum omejljiv"
+  },
+  {
+   "source": "ekcp",
+   "target": "mučenje",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 3 absolutna"
+  },
+  {
+   "source": "escp",
+   "target": "individualne_pritozbe",
+   "relation": "permits_complaint_to",
+   "authority": "A",
+   "note": "čl. 34; po izčrpanju domačih sredstev (čl. 35); sodba zavezujoča čl. 46"
+  },
+  {
+   "source": "ul_ozn",
+   "target": "svet_cp",
+   "relation": "establishes",
+   "authority": "A",
+   "note": "GA Res 60/251 (2006); 47 držav; UPR"
+  },
+  {
+   "source": "svet_cp",
+   "target": "upr",
+   "relation": "implements",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "komisija_cp",
+   "target": "svet_cp",
+   "relation": "replaced_by",
+   "authority": "A",
+   "note": "2006 reforma: politizacija, kršiteljice v Komisiji"
+  },
+  {
+   "source": "cedaw",
+   "target": "op_cedaw",
+   "relation": "supplemented_by",
+   "authority": "A",
+   "note": "1999: individualne pritožbe + preiskave"
+  },
+  {
+   "source": "cedaw",
+   "target": "pravice_žensk",
+   "relation": "protects",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "crc",
+   "target": "odbor_otroci",
+   "relation": "establishes",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "crc",
+   "target": "otrokove_pravice",
+   "relation": "protects",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "crpd",
+   "target": "invalidi",
+   "relation": "protects",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "icped",
+   "target": "izginotja",
+   "relation": "protects",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "konvencija_begunci",
+   "target": "non_refoulement",
+   "relation": "establishes",
+   "authority": "A",
+   "note": "čl. 33"
+  },
+  {
+   "source": "konvencija_begunci",
+   "target": "begunci",
+   "relation": "protects",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "icrmw",
+   "target": "migranti",
+   "relation": "protects",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "okolje",
+   "target": "stockholm",
+   "relation": "developed_from",
+   "authority": "A",
+   "note": "1972: rojstvo pravice; UNEP"
+  },
+  {
+   "source": "okolje",
+   "target": "a_res_76_300",
+   "relation": "recognized_by",
+   "authority": "A",
+   "note": "2022; pred tem Resolucija Sveta za ČP 2021"
+  },
+  {
+   "source": "genocid",
+   "target": "konvencija_genocid",
+   "relation": "defined_in",
+   "authority": "A",
+   "note": "čl. II: dolus specialis + 4 skupine + 5 dejanj"
+  },
+  {
+   "source": "konvencija_genocid",
+   "target": "icj",
+   "relation": "disputes_to",
+   "authority": "A",
+   "note": "čl. IX"
+  },
+  {
+   "source": "gaza",
+   "target": "genocid",
+   "relation": "illustrates_limits_of",
+   "authority": "C",
+   "note": "dolus specialis, enforcement, politizacija"
+  },
+  {
+   "source": "obicajno_pravo",
+   "target": "icj_statut_38",
+   "relation": "defined_in",
+   "authority": "A",
+   "note": "38(1)(b): splošna praksa + opinio juris"
+  },
+  {
+   "source": "jus_cogens",
+   "target": "mučenje",
+   "relation": "applies_to",
+   "authority": "A",
+   "note": ""
+  },
+  {
+   "source": "persistent_objector",
+   "target": "obicajno_pravo",
+   "relation": "limits",
+   "authority": "A",
+   "note": "edina izjema; ne za jus cogens"
+  },
+  {
+   "source": "vincent_5",
+   "target": "koncept_čp",
+   "relation": "defines",
+   "authority": "B",
+   "note": ""
+  },
+  {
+   "source": "shue",
+   "target": "dolžnosti",
+   "relation": "defines",
+   "authority": "C",
+   "note": "izogibanje, zaščita, pomoč"
+  },
+  {
+   "source": "sen",
+   "target": "kulturni_relativizem",
+   "relation": "criticizes",
+   "authority": "C",
+   "note": "azijske vrednote kot izgovor"
+  },
+  {
+   "source": "upr",
+   "target": "svet_cp",
+   "relation": "mechanism_of",
+   "authority": "A",
+   "note": "vsakih 4–4,5 let; vse države; neobvezna priporočila"
+  },
+  {
+   "source": "mpdpp",
+   "target": "samoodločba",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 1 = MPESKP čl. 1"
+  },
+  {
+   "source": "escp",
+   "target": "ekcp",
+   "relation": "institution_of",
+   "authority": "A",
+   "note": "ESČP zagotavlja spoštovanje obveznosti po EKČP"
+  },
+  {
+   "source": "esl",
+   "target": "kolektivne_pritozbe",
+   "relation": "permits",
+   "authority": "B",
+   "note": ""
+  },
+  {
+   "source": "afriška_listina",
+   "target": "samoodločba",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 20; dekolonizacija"
+  },
+  {
+   "source": "arabska_listina",
+   "target": "manjšine",
+   "relation": "protects",
+   "authority": "A",
+   "note": "čl. 25"
+  },
+  {
+   "source": "azija",
+   "target": "sen",
+   "relation": "explained_by",
+   "authority": "C",
+   "note": ""
+  }
+ ]
+}

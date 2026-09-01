@@ -1,0 +1,113 @@
+[
+ {
+  "id": "ohchr-gc",
+  "title": "General Comments (OHCHR)",
+  "titleEn": "General comments",
+  "url": "https://www.ohchr.org/en/treaty-bodies/general-comments",
+  "body": "Splošni komentarji vseh pogodbenih teles — interpretacija pogodb.",
+  "topics": []
+ },
+ {
+  "id": "tb-database",
+  "title": "Treaty Body Database",
+  "url": "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/TBSearch.aspx?Lang=en",
+  "body": "Poročila držav, sklepna ugotovitve, splošni komentarji.",
+  "topics": []
+ },
+ {
+  "id": "uhri",
+  "title": "Universal Human Rights Index (UHRI)",
+  "url": "https://uhri.ohchr.org/en/",
+  "body": "Priporočila UPR + pogodbenih teles + posebnih postopkov, iskanje po državah.",
+  "topics": [
+   "nadzor"
+  ]
+ },
+ {
+  "id": "upr-info",
+  "title": "UPR Info",
+  "url": "https://upr-info.org",
+  "body": "UPR proces, priporočila, sledenje izvedbi.",
+  "topics": [
+   "nadzor"
+  ]
+ },
+ {
+  "id": "hudoc",
+  "title": "HUDOC (ESČP)",
+  "url": "https://hudoc.echr.coe.int",
+  "body": "Sodbe ESČP — iskanje po členu EKČP.",
+  "topics": [
+   "regionalni"
+  ]
+ },
+ {
+  "id": "un-treaties",
+  "title": "UN Treaty Collection",
+  "url": "https://treaties.un.org",
+  "body": "Besedila pogodb, ratifikacije, zadržki.",
+  "topics": [
+   "ratifikacije"
+  ]
+ },
+ {
+  "id": "gov-si",
+  "title": "gov.si — mednarodne pogodbe",
+  "url": "https://www.gov.si/assets/ministrstva/MZZ/Dokumenti/multilaterala/clovekovepravice/",
+  "body": "Slovenska besedila pogodb (MPDPP itd.).",
+  "topics": []
+ },
+ {
+  "id": "ohchr-instruments",
+  "title": "OHCHR — Core Instruments",
+  "url": "https://www.ohchr.org/EN/ProfessionalInterest/Pages/CoreInstruments.aspx",
+  "body": "Temeljne konvencije (tudi tiste, ki niso v knjigi Dokumenti).",
+  "topics": []
+ },
+ {
+  "id": "icj",
+  "title": "Meddržavno sodišče (ICJ)",
+  "url": "https://www.icj-cij.org",
+  "body": "Sodbe in advisory opinions (genocid čl. IX, okolje).",
+  "topics": [
+   "genocid",
+   "okolje"
+  ]
+ },
+ {
+  "id": "icc",
+  "title": "Mednarodno kazensko sodišče (ICC)",
+  "url": "https://www.icc-cpi.int",
+  "body": "Rimski statut; individualna kazenska odgovornost.",
+  "topics": [
+   "genocid"
+  ]
+ },
+ {
+  "id": "upr-slo",
+  "title": "UPR — Slovenija",
+  "url": "https://www.upr-info.org/en/state/slovenia",
+  "body": "Priporočila Sloveniji po krogih UPR.",
+  "topics": [
+   "nadzor"
+  ]
+ },
+ {
+  "id": "ccpr-gc34",
+  "title": "CCPR Splošni komentar 34 (svoboda izražanja)",
+  "url": "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/TBSearch.aspx?Lang=en&TreatyID=8&DocTypeID=11",
+  "body": "Podrobna razlaga čl. 19 MPDPP in omejitev.",
+  "topics": [
+   "izrazanje"
+  ]
+ },
+ {
+  "id": "cescr-gc",
+  "title": "CESCR splošni komentarji (3, 13, 14 …)",
+  "url": "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/TBSearch.aspx?Lang=en&TreatyID=9&DocTypeID=11",
+  "body": "GC 3 (obveznosti), GC 13 (izobraževanje), GC 14 (zdravstvo).",
+  "topics": [
+   "eskp"
+  ]
+ }
+]

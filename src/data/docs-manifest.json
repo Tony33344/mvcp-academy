@@ -1,0 +1,82 @@
+[
+ {
+  "id": "gc34",
+  "title": "CCPR General Comment 34 — Svoboda izražanja (čl. 19)",
+  "url": "https://www.ohchr.org/en/treaty-bodies/ccpr",
+  "file": "CCPR-GC34.pdf",
+  "topics": [
+   "izrazanje"
+  ],
+  "authority": "A"
+ },
+ {
+  "id": "gc36",
+  "title": "CCPR General Comment 36 — Pravica do življenja (čl. 6)",
+  "url": "https://www.ohchr.org/en/treaty-bodies/ccpr",
+  "file": "CCPR-GC36.pdf",
+  "topics": [
+   "zivljenje"
+  ],
+  "authority": "A"
+ },
+ {
+  "id": "gc3",
+  "title": "CESCR General Comment 3 — Narava obveznosti (čl. 2(1))",
+  "url": "https://www.ohchr.org/en/treaty-bodies/cescr",
+  "file": "CESCR-GC3.pdf",
+  "topics": [
+   "eskp"
+  ],
+  "authority": "A"
+ },
+ {
+  "id": "gc13",
+  "title": "CESCR General Comment 13 — Pravica do izobraževanja",
+  "url": "https://www.ohchr.org/en/treaty-bodies/cescr",
+  "file": "CESCR-GC13.pdf",
+  "topics": [
+   "eskp"
+  ],
+  "authority": "A"
+ },
+ {
+  "id": "gc14",
+  "title": "CESCR General Comment 14 — Pravica do najvišje dosegljive ravni zdravja",
+  "url": "https://www.ohchr.org/en/treaty-bodies/cescr",
+  "file": "CESCR-GC14.pdf",
+  "topics": [
+   "eskp"
+  ],
+  "authority": "A"
+ },
+ {
+  "id": "res60251",
+  "title": "GA Res 60/251 — Svet za človekove pravice",
+  "url": "https://www2.ohchr.org/english/bodies/hrcouncil/docs/a.res.60.251_en.pdf",
+  "file": "GA-Res-60-251.pdf",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "A"
+ },
+ {
+  "id": "res76300",
+  "title": "A/RES/76/300 — Pravica do čistega okolja (2022)",
+  "url": "https://docs.un.org/en/A/RES/76/300",
+  "file": "A-RES-76-300.pdf",
+  "topics": [
+   "okolje"
+  ],
+  "authority": "A"
+ },
+ {
+  "id": "upr-guide",
+  "title": "UPR — praktični vodnik",
+  "url": "https://www.ohchr.org/en/upr",
+  "file": "UPR-guide.pdf",
+  "topics": [
+   "nadzor"
+  ],
+  "authority": "A"
+ }
+]

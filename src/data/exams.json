@@ -1,0 +1,69 @@
+[
+ {
+  "id": "rok1-2026",
+  "title": "1. rok 2026",
+  "year": 2026,
+  "durationMin": 75,
+  "questionIds": [
+   "q01",
+   "q02",
+   "q03",
+   "q04",
+   "q05",
+   "q06",
+   "q07",
+   "q08",
+   "q09",
+   "q10",
+   "q11",
+   "q12",
+   "q13",
+   "q14",
+   "q15",
+   "q16"
+  ],
+  "formatNote": "15 vprašanj (rokpisni zapiski ⚠️)"
+ },
+ {
+  "id": "rok2-2026",
+  "title": "2. rok 2026",
+  "year": 2026,
+  "durationMin": 75,
+  "questionIds": [
+   "q04",
+   "q17",
+   "q18",
+   "q19",
+   "q06",
+   "q12",
+   "q14",
+   "q15"
+  ],
+  "formatNote": "6 vprašanj + teme: genocid, mučenje, okolje, ženske (⚠️)"
+ },
+ {
+  "id": "rok1-2025",
+  "title": "1. rok 2025",
+  "year": 2025,
+  "durationMin": 75,
+  "questionIds": [
+   "q01",
+   "q02",
+   "q03",
+   "q04",
+   "q05",
+   "q06",
+   "q07",
+   "q08",
+   "q09",
+   "q10",
+   "q11",
+   "q12",
+   "q13",
+   "q14",
+   "q15",
+   "q16"
+  ],
+  "formatNote": "15 vprašanj (~52+ točk)"
+ }
+]
