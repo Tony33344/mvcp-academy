@@ -76,13 +76,13 @@ export default function Graph() {
       </details>
 
       {selected && (
-        <div className="card border-blue-300 dark:border-blue-800">
+        <div className="card border-blue-300">
           <div className="flex justify-between items-start">
             <h2 className="font-semibold text-sm">{selected.label}</h2>
-            <button onClick={() => setSelected(null)} aria-label="Zapri" className="text-slate-400 hover:text-slate-600 px-2">✕</button>
+            <button onClick={() => setSelected(null)} aria-label="Zapri" className="text-stone-600 hover:text-stone-700 px-2">✕</button>
           </div>
-          <div className="text-xs text-slate-400 mb-2">{selected.type}</div>
-          <p className="text-sm text-slate-700 dark:text-slate-200">{selected.facts || '—'}</p>
+          <div className="text-xs text-stone-600 mb-2">{selected.type}</div>
+          <p className="text-sm text-stone-800">{selected.facts || '—'}</p>
         </div>
       )}
     </div>

@@ -13,10 +13,12 @@ import Graph from './pages/Graph'
 import Sources from './pages/Sources'
 import Progress from './pages/Progress'
 import About from './pages/About'
+import CheatSheetPrint from './pages/CheatSheetPrint'
 
 export default function App() {
   return (
     <Routes>
+      <Route path="/exam/print" element={<CheatSheetPrint />} />
       <Route element={<Layout />}>
         <Route path="/" element={<Home />} />
         <Route path="/exam" element={<ExamDashboard />} />

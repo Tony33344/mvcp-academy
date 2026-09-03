@@ -1,66 +1,135 @@
 [
  {
   "topic": "Nediskriminacija",
-  "articles": "UL OZN 1(3); SDČP 2; MPDPP 2(1); MPESKP 2(2); EKČP 14; Listina EU 21; AmK 1; Afriška 2; Arabska 3"
+  "articles": "UL OZN 1(3); SDČP 2; MPDPP 2(1); MPESKP 2(2); EKČP 14; Listina EU 21; AmK 1; Afriška 2; Arabska 3",
+  "inBook": true,
+  "bookPages": "SDČP, MPDPP, EKČP",
+  "missingWarning": null
  },
  {
   "topic": "Pravica do življenja",
-  "articles": "SDČP 3; MPDPP 6; EKČP 2 + P13; Listina EU 2; Afriška 4; AmK 4"
+  "articles": "SDČP 3; MPDPP 6; EKČP 2; Listina EU 2; Afriška 4; AmK 4 (od spočetja!)",
+  "inBook": true,
+  "bookPages": "MPDPP str. 85, EKČP str. 145",
+  "missingWarning": "13. protokol k EKČP (popolna odprava smrtne kazni v vseh okoliščinah) preveri, če je v prilogi!"
  },
  {
   "topic": "Prepoved mučenja",
-  "articles": "SDČP 5; MPDPP 7; CAT čl. 1 (definicija); EKČP 3; Listina EU 4; OPCAT"
+  "articles": "SDČP 5; MPDPP 7; CAT čl. 1 (4 elementi definicije!), čl. 2 (absolutnost), čl. 3 (non-refoulement); EKČP 3",
+  "inBook": true,
+  "bookPages": "CAT str. 210, EKČP str. 146",
+  "missingWarning": "⚠️ OPCAT 2002 (preventivni obiski SPT + NPM) NI v knjigi! Nauči se na pamet!"
  },
  {
   "topic": "Genocid",
-  "articles": "Konvencija o genocidu 1948 čl. II (definicija); Rimski statut; ICTY/ICTR statuta"
+  "articles": "Konvencija o genocidu 1948 čl. II (dolus specialis, 4 skupine, 5 dejanj), čl. III, VI, IX (ICJ)",
+  "inBook": true,
+  "bookPages": "Konvencija o genocidu str. 45",
+  "missingWarning": null
  },
  {
   "topic": "Samoodločba",
-  "articles": "MPDPP 1; MPESKP 1; UL OZN 1(2), 55; Afriška listina 20"
+  "articles": "MPDPP čl. 1 = MPESKP čl. 1 (identična!); UL OZN 1(2), 55; Afriška listina 20",
+  "inBook": true,
+  "bookPages": "MPDPP str. 81, MPESKP str. 67",
+  "missingWarning": null
  },
  {
   "topic": "Manjšinske pravice",
-  "articles": "MPDPP 27; Deklaracija 1992; OKVNM 5, 6, 15; Arabska 25; ILO 169"
+  "articles": "MPDPP čl. 27 (edini globalni zavezujoč); Deklaracija 1992; OKVNM čl. 5, 6, 15",
+  "inBook": true,
+  "bookPages": "MPDPP str. 94, OKVNM str. 310",
+  "missingWarning": "ILO 169 (domorodna ljudstva) in sistem Društva narodov (za mir, ne humanitarno) nista v besedilih!"
  },
  {
   "topic": "Pravice žensk",
-  "articles": "CEDAW čl. 1; OP CEDAW 1999; Pekinška deklaracija 1995; Istanbulska 2011"
+  "articles": "CEDAW čl. 1 (definicija diskriminacije), čl. 4 (posebni ukrepi/kvote); OP-CEDAW 1999 (pritožbe)",
+  "inBook": true,
+  "bookPages": "CEDAW str. 180",
+  "missingWarning": "⚠️ Istanbulska konvencija 2011 (nasilje nad ženskami) in Pekinška deklaracija 1995 NISTA v knjigi!"
  },
  {
-  "topic": "Begunci in migranti",
-  "articles": "SDČP 14; Konvencija 1951 čl. 33 (nevračanje); ICRMW 1990; P7 EKČP"
+  "topic": "Begunci",
+  "articles": "Konvencija o statusu beguncev 1951 čl. 1A(2) (utemeljen strah pred preganjanjem — 5 razlogov!), čl. 33 (non-refoulement)",
+  "inBook": true,
+  "bookPages": "Konvencija o beguncih str. 115",
+  "missingWarning": "Protokol 1967 (odprava časovnih in geografskih omejitev) je kratek, preveri vsebino!"
  },
  {
-  "topic": "Okolje",
-  "articles": "Resolucija Sveta za ČP 2021; A/RES/76/300 (2022); Aarhuška konvencija 1998 čl. 1; Afriška 24"
+  "topic": "Delavci migranti (ICRMW)",
+  "articles": "ICRMW 1990 čl. 2(1) (definicija delavca migranta); čl. 18 (enakost pred sodišči)",
+  "inBook": false,
+  "bookPages": "NI V KNJIGI",
+  "missingWarning": "⚠️ ICRMW 1990 NI V KNJIGI! Nauči se na pamet: čl. 2(1) definicija, ratificirale le države izvora (nizka ratifikacija na Zahodu)!"
  },
  {
-  "topic": "Izražanje",
-  "articles": "SDČP 19; MPDPP 19; EKČP 10; Afriška 9; AmK 13"
+  "topic": "Pravica do čistega okolja",
+  "articles": "Stockholm 1972 (UNEP); Aarhuška konvencija 1998 (3 procesne pravice); A/RES/76/300 (2022 priznanje GS OZN)",
+  "inBook": false,
+  "bookPages": "NI V KNJIGI",
+  "missingWarning": "⚠️ A/RES/76/300 (2022) in Aarhuška konvencija NISTA v knjigi! Nauči se na pamet kronologijo 1972 → 2022!"
  },
  {
-  "topic": "Veroizpoved",
-  "articles": "SDČP 18; MPDPP 18; EKČP 9"
+  "topic": "Pravica do razvoja",
+  "articles": "Deklaracija o pravici do razvoja 1986 (res. 41/128) — individualna + kolektivna pravica",
+  "inBook": false,
+  "bookPages": "NI V KNJIGI",
+  "missingWarning": "⚠️ Deklaracija 1986 NI v knjigi! Zapomni si: NI pravno zavezujoča (Schrijver za konvencijo, Subedi programski dokument)!"
  },
  {
-  "topic": "Socialne/ekonomske",
-  "articles": "MPESKP 6–13 (delo 6/7, socialno varstvo 9, zdravstvo 12, izobraževanje 13); ESL"
+  "topic": "Svoboda izražanja",
+  "articles": "SDČP 19; MPDPP 19; EKČP 10 (10(2) 3-delni test: zakonito + legitimen cilj + nujno v demokratični družbi)",
+  "inBook": true,
+  "bookPages": "MPDPP str. 90, EKČP str. 152",
+  "missingWarning": "Milton (Areopagitica 1644), Splošni komentar 34 in vprašanja AI/algoritmov se nauči na pamet!"
+ },
+ {
+  "topic": "Svoboda veroizpovedi",
+  "articles": "SDČP 18; MPDPP 18; EKČP 9 (forum internum = absolutno / forum externum = omejljivo po 9(2))",
+  "inBook": true,
+  "bookPages": "MPDPP str. 89, EKČP str. 151",
+  "missingWarning": "Razlikovanje internum (absolutno) vs. externum (omejljivo) ni v besedilu izrecno poimenovano z latinskimi izrazi — nauči se terminologijo!"
+ },
+ {
+  "topic": "Ekonomske in socialne pravice",
+  "articles": "MPESKP čl. 2(1) (progresivna realizacija + minimalno jedro TAKOJ!), čl. 6-13; ESL 1961/1996",
+  "inBook": true,
+  "bookPages": "MPESKP str. 67, ESL str. 260",
+  "missingWarning": "⚠️ Opcijski protokol k MPESKP (2008 — individualne pritožbe) NI v knjigi!"
  },
  {
   "topic": "Otrokove pravice",
-  "articles": "CRC 1989 (čl. 1, 3); P2, P3; Afriška listina o otrokih 1990"
+  "articles": "CRC 1989 čl. 1 (<18), čl. 3 (najboljša korist otroka), čl. 12 (participacija)",
+  "inBook": true,
+  "bookPages": "CRC str. 235",
+  "missingWarning": "⚠️ 3. opcijski protokol k CRC (2011 — komunikacijski postopek/pritožbe) NI v stari knjigi!"
  },
  {
-  "topic": "Invalidi",
-  "articles": "CRPD 2006 (čl. 2, 9, 12) + OP"
+  "topic": "Pravice oseb z invalidnostjo (CRPD)",
+  "articles": "CRPD 2006 čl. 2 (univerzalno oblikovanje + primerna prilagoditev), čl. 9 (dostopnost), čl. 12 (pravna sposobnost)",
+  "inBook": false,
+  "bookPages": "NI V KNJIGI",
+  "missingWarning": "⚠️ CRPD 2006 NI V KNJIGI! Nauči se na pamet: socialni model (Oliver), čl. 2, 9 in 12 + Berghs 2019!"
  },
  {
-  "topic": "Prisilna izginotja",
-  "articles": "ICPED 2006 (čl. 1, 2, 4, 5, 6)"
+  "topic": "Prisilna izginotja (ICPED)",
+  "articles": "ICPED 2006 čl. 1 (nederogabilnost), čl. 2 (definicija: odvzem + prikrivanje usode), čl. 5 (zločin proti človeškosti)",
+  "inBook": false,
+  "bookPages": "NI V KNJIGI",
+  "missingWarning": "⚠️ ICPED 2006 NI V KNJIGI! Nauči se na pamet: čl. 1, 2, 5 + sodba Velásquez-Rodríguez!"
  },
  {
-  "topic": "Nadzorni mehanizmi",
-  "articles": "MPDPP čl. 28 (Odbor); GA Res 60/251 (Svet za ČP); CAT čl. 20–22; OP-ji"
+  "topic": "Nadzorni mehanizmi (Odbor vs. Svet)",
+  "articles": "MPDPP čl. 28 (Odbor za ČP: 18 strokovnjakov, poročila čl. 40, meddržavne čl. 41; 1. OP individualne pritožbe)",
+  "inBook": true,
+  "bookPages": "MPDPP str. 94",
+  "missingWarning": "⚠️ Resolucija GA Res 60/251 (ustanovitev Sveta za ČP 2006, 47 držav, UPR) NI v knjigi!"
+ },
+ {
+  "topic": "Reforma ESČP (Protokola 14 in 15)",
+  "articles": "EKČP čl. 23 (mandat 9 let brez ponovne izvolitve), čl. 34 (individualne), čl. 35 (dopustnost: 4 mesečni rok!), čl. 46 (zavezujočnost)",
+  "inBook": true,
+  "bookPages": "EKČP str. 145",
+  "missingWarning": "⚠️ 14. in 15. protokol (46 sodnikov, kandidatura pod 65 let, 4-mesečni rok po P15) sta novejša od knjige! Nauči se te številke na pamet!"
  }
 ]

@@ -6,8 +6,8 @@ export default function Learn() {
     <div className="space-y-6">
       <div>
         <h1 className="text-xl font-bold">📚 Kurikulum — splošno učenje</h1>
-        <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">
-          8 modulov od koncepta do aktualnih dogodkov. Brez izpitnih oznak — za vse, ki jih zanima tema.
+        <p className="text-sm text-stone-600 mt-1">
+          10 modulov od koncepta do aktualnih dogodkov. Brez izpitnih oznak — za vse, ki jih zanima tema.
         </p>
       </div>
 
@@ -16,7 +16,7 @@ export default function Learn() {
         {core.map((c, i) => (
           <details key={c.id} className="card">
             <summary className="cursor-pointer font-medium text-sm">
-              Modul {i + 1}: {c.title} <span className="text-slate-400">({c.titleEn})</span>
+              Modul {i + 1}: {c.title} <span className="text-stone-600">({c.titleEn})</span>
             </summary>
             <div className="mt-3"><Md>{c.body}</Md></div>
           </details>
@@ -33,9 +33,9 @@ export default function Learn() {
                 <table className="w-full text-xs border-collapse">
                   <tbody>
                     {cmp.rows.map((row, ri) => (
-                      <tr key={ri} className={ri === 0 ? 'bg-slate-100 dark:bg-slate-800 font-semibold' : ''}>
+                      <tr key={ri} className={ri === 0 ? 'bg-stone-100 font-semibold' : ''}>
                         {row.map((cell, ci) => (
-                          <td key={ci} className="border border-slate-200 dark:border-slate-700 px-2 py-1.5 align-top">{cell}</td>
+                          <td key={ci} className="border border-stone-300 px-2 py-1.5 align-top">{cell}</td>
                         ))}
                       </tr>
                     ))}

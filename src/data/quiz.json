@@ -153,11 +153,11 @@
    "regionalni"
   ],
   "answerOutline": [
-   "št. sodnikov = št. pogodbenic EKČP",
+   "št. sodnikov = 46 (kolikor je držav članic Sveta Evrope po izključitvi Rusije 2022 — ne pisati 47!)",
    "mandat 9 let, brez ponovne izvolitve (P14 čl. 23)",
-   "izbira: Parlamentarna skupščina SE",
-   "formacije: posamezni sodnik/odbori(3)/senati(7)/Veliki senat(17)",
-   "naloge: individualne + meddržavne zadeve; sodba zavezujoča (čl. 46)"
+   "izbira: Parlamentarna skupščina SE izmed 3 kandidatov države (kandidat mora biti mlajši od 65 let ob vložitvi po P15)",
+   "formacije: posamezni sodnik / odbori (3) / senati (7) / Veliki senat (17)",
+   "naloge in postopek: individualne (čl. 34 — rok 4 mesece po P15) + meddržavne zadeve (čl. 33); sodba zavezujoča (čl. 46), izvrševanje nadzira Odbor ministrov SE"
   ],
   "provenance": "1. rok 2025 + 1. rok 2026",
   "officialStatus": "pastRecall",
@@ -495,6 +495,171 @@
    "minimalne osnovne obveznosti takoj",
    "nediskriminacija takoj",
    "Odbor za ESKP; OP 2008 pritožbe"
+  ],
+  "provenance": "generated",
+  "officialStatus": "generatedVariant",
+  "mcq": null
+ },
+ {
+  "id": "q29",
+  "type": "short",
+  "prompt": "Analizirajte ključne zgodovinske vire: kaj je njihov ključni prispevek pri oblikovanju koncepta ČP?",
+  "points": 4,
+  "topics": [
+   "zgodovina"
+  ],
+  "answerOutline": [
+   "Hamurabi (~1700 pr.n.št.): predpostavka nedolžnosti, dokazi obeh strani, predpisan postopek",
+   "Magna Carta 1215: kralj podrejen zakonu, določila 39/40 (predhodnica habeas corpus), nadzor 25 baronov",
+   "Angleška listina pravic 1689: parlament — suverenost parlamenta, svoboda govora v parlamentu, svoboda veroizpovedi",
+   "Deklaracija neodvisnosti ZDA 1776: naravne, prirojene, neodtujljive pravice (življenje, svoboda, sreča) — izključeni sužnji/ženske/staroselci",
+   "Francoska deklaracija 1789: univerzalnost (vedno, povsod, za vsakogar), suverenost ljudstva, čl. 1, 5, 7, 10, 12, 13"
+  ],
+  "provenance": "banka (mvčp-vprašanja)",
+  "officialStatus": "professor",
+  "mcq": null
+ },
+ {
+  "id": "q30",
+  "type": "short",
+  "prompt": "Kakšno mesto zavzemajo ČP v UL OZN (kje in kako so omejene)?",
+  "points": 2,
+  "topics": [
+   "zgodovina",
+   "nadzor"
+  ],
+  "answerOutline": [
+   "UL OZN NE vsebuje seznama ČP",
+   "čl. 1(3): uresničevati mednarodno sodelovanje — razvijati (konvencije) in spodbujati (implementacija) spoštovanje ČP",
+   "UL OZN je okvir — podrobne pravice so v konvencijah (SDČP, pakta, CAT, CEDAW, CRC...)",
+   "omejitev: suverenost držav (čl. 2(7) — nevmešavanje v notranje zadeve)"
+  ],
+  "provenance": "banka (mvčp-vprašanja)",
+  "officialStatus": "professor",
+  "mcq": null
+ },
+ {
+  "id": "q31",
+  "type": "short",
+  "prompt": "Kako so razlike med Severom in Jugom vplivale na oblikovanje vsebine MVČP?",
+  "points": 4,
+  "topics": [
+   "ratifikacije",
+   "listina"
+  ],
+  "answerOutline": [
+   "Zahod (Sever): civilno-politične pravice (1. generacija) — posameznik, svoboda",
+   "Vzhod/Jug: ekonomske-socialne pravice (2. generacija) — skupnost, blaginja",
+   "razlog za 2 pakta (1966): suverenost vs. nadzor, posameznik vs. skupnost, vsebina ČP",
+   "3. generacija (solidarnostne): razvoj, okolje, mir — pogosto nezavezujoče (Jug potrebuje)"
+  ],
+  "provenance": "banka (mvčp-vprašanja)",
+  "officialStatus": "professor",
+  "mcq": null
+ },
+ {
+  "id": "q32",
+  "type": "short",
+  "prompt": "3 vrste pritožbenih postopkov pred Svetom za ČP",
+  "points": 4,
+  "topics": [
+   "nadzor"
+  ],
+  "answerOutline": [
+   "individualne pritožbe (podpisana, izčrpana domača sredstva, razlaga kršitve, podlaga v pogodbi)",
+   "meddržavne pritožbe (suverenost, nevmešavanje — občutljivo, soočenje mnenj)",
+   "preiskave (zaupna preiskava na podlagi zanesljivih informacij o hudih kršitvah)",
+   "mandat lahko preneha državi s hudimi kršitvami"
+  ],
+  "provenance": "banka (mvčp-vprašanja)",
+  "officialStatus": "professor",
+  "mcq": null
+ },
+ {
+  "id": "q33",
+  "type": "short",
+  "prompt": "Kako uporabiš postopek pred ESČP, če meniš, da ti je bila kršena pravica iz EKČP?",
+  "points": 4,
+  "topics": [
+   "regionalni"
+  ],
+  "answerOutline": [
+   "čl. 34: posameznik, NGO ali skupina lahko vloži pritožbo",
+   "pogoji dopustnosti (čl. 35): žrtev, jurisdikcija države, izčrpanje domačih sredstev, 6-mesečni rok",
+   "sodišče odloči — sodba je končna in pravno zavezujoča (čl. 46)",
+   "Odbor ministrov nadzoruje izvršitev"
+  ],
+  "provenance": "banka (mvčp-vprašanja)",
+  "officialStatus": "professor",
+  "mcq": null
+ },
+ {
+  "id": "q34",
+  "type": "short",
+  "prompt": "Primerjaj individualne/kolektivne pritožbe v EKČP in ESL (2 primera)",
+  "points": 4,
+  "topics": [
+   "regionalni"
+  ],
+  "answerOutline": [
+   "EKČP individualne (čl. 34): posameznik/NGO proti državi — sodba zavezujoča (čl. 46)",
+   "ESL kolektivne: sindikati/NGO → Evropski odbor za socialne pravite → Odbor ministrov (priporočilo)",
+   "EKČP: civilno-politične, zavezujoče sodbe; ESL: ekonomske-socialne, priporočila",
+   "skupno: obe pod Svetom Evrope, Odbor ministrov nadzoruje"
+  ],
+  "provenance": "banka (mvčp-vprašanja)",
+  "officialStatus": "professor",
+  "mcq": null
+ },
+ {
+  "id": "q35",
+  "type": "scenario",
+  "prompt": "Scenarij: država prepoveduje nošenje verskih simbolov v šolah. Kateri členi in test?",
+  "points": 4,
+  "topics": [
+   "veroizpoved"
+  ],
+  "answerOutline": [
+   "EKČP čl. 9; MPDPP čl. 18",
+   "forum externum (manifestiranje vere — omejljivo, ne internum)",
+   "9(2): zakonita + legitimen cilj (pravice drugih, javni red) + nujno v demokratični družbi",
+   "ESČP: margin of appreciation (ocenitveni prostor držav)"
+  ],
+  "provenance": "generated",
+  "officialStatus": "generatedVariant",
+  "mcq": null
+ },
+ {
+  "id": "q36",
+  "type": "scenario",
+  "prompt": "Scenarij: narod zahteva odcepitev. Katera pravica in kaj je problem?",
+  "points": 4,
+  "topics": [
+   "samoodlocba"
+  ],
+  "answerOutline": [
+   "MPDPP čl. 1 = MPESKP čl. 1 (pravica do samoodločbe)",
+   "zunanja samoodločba (odcepitev) vs. notranja (avtonomija)",
+   "problem: kdo je 'narod'? (Vincent — kolektivni subjekt)",
+   "Klabbers 2006: pravna narava sporna; Palestina kot primer"
+  ],
+  "provenance": "generated",
+  "officialStatus": "generatedVariant",
+  "mcq": null
+ },
+ {
+  "id": "q37",
+  "type": "scenario",
+  "prompt": "Scenarij: država ne preprečuje diskriminacije manjšine v šolah. Kateri členi?",
+  "points": 4,
+  "topics": [
+   "manjsine"
+  ],
+  "answerOutline": [
+   "MPDPP čl. 27 (edini globalni zavezujoč — jezik, kultura, vera)",
+   "OKVNM čl. 5, 6, 15 (regionalni — Svet Evrope)",
+   "ILO 169 (domorodci — če applicable)",
+   "Odbor za ČP; Svetovalni odbor (AC)"
   ],
   "provenance": "generated",
   "officialStatus": "generatedVariant",

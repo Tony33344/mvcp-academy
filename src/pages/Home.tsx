@@ -24,9 +24,9 @@ export default function Home() {
         <p className="kicker">Mednarodno varstvo človekovih pravic</p>
         <h1 className="font-display text-4xl sm:text-5xl font-semibold leading-[1.08] tracking-tight mt-2 mb-3">
           Nauči se človekovih pravic<br />
-          <span className="text-stone-400">kot pravnik, ne kot papiga.</span>
+          <span className="text-stone-600">kot pravnik, ne kot papiga.</span>
         </h1>
-        <p className="text-stone-500 dark:text-stone-400 text-sm leading-relaxed max-w-lg">
+        <p className="text-stone-500 text-sm leading-relaxed max-w-lg">
           Retrieval practice, razpršeno ponavljanje, preverjeni viri. Zgrajeno okoli izpita prof. dr. Petre Roter — uporabno za vsakogar.
         </p>
       </section>
@@ -54,31 +54,31 @@ export default function Home() {
       {/* two doors */}
       <section className="grid sm:grid-cols-2 gap-4">
         <Link to="/exam" className="card card-hover group !p-6">
-          <div className="kicker text-red-700 dark:text-red-400 mb-3">Način A</div>
+          <div className="kicker text-red-700 mb-3">Način A</div>
           <h2 className="font-display text-2xl font-semibold mb-2">Izpit</h2>
-          <p className="text-sm text-stone-600 dark:text-stone-400 leading-relaxed">
+          <p className="text-sm text-stone-600 leading-relaxed">
             Jedro snovi, 16 seminarskih tem, zeleni priročnik, simulator 75 min. Vse označeno po viru in letu.
           </p>
-          <span className="inline-block mt-4 text-sm text-stone-400 group-hover:translate-x-1 transition-transform">→</span>
+          <span className="inline-block mt-4 text-sm text-stone-600 group-hover:translate-x-1 transition-transform">→</span>
         </Link>
         <Link to="/learn" className="card card-hover group !p-6">
-          <div className="kicker text-stone-400 mb-3">ZA VSE</div>
+          <div className="kicker text-stone-600 mb-3">ZA VSE</div>
           <h2 className="font-display text-2xl font-semibold group-hover:underline decoration-stone-300 underline-offset-4">Kurikulum</h2>
-          <p className="text-sm text-stone-500 dark:text-stone-400 mt-2 leading-relaxed">
+          <p className="text-sm text-stone-500 mt-2 leading-relaxed">
             Od koncepta do aktualnih dogodkov — 8 modulov, 15 primerjalnih tabel, graf znanja.
           </p>
         </Link>
       </section>
 
-      <section className="grid grid-cols-3 gap-px bg-stone-200 dark:bg-stone-800 rounded-xl overflow-hidden border border-stone-200 dark:border-stone-800">
+      <section className="grid grid-cols-3 gap-px bg-stone-200 rounded-xl overflow-hidden border border-stone-200">
         {[
           { v: flashcards.length, l: 'kartic' },
           { v: quiz.length, l: 'vprašanj' },
           { v: topics.length, l: 'tem' },
         ].map(s => (
-          <div key={s.l} className="bg-white dark:bg-stone-900 px-4 py-5 text-center">
+          <div key={s.l} className="bg-white px-4 py-5 text-center">
             <div className="font-display text-3xl font-semibold">{s.v}</div>
-            <div className="text-[11px] uppercase tracking-wider text-stone-400 mt-1">{s.l}</div>
+            <div className="text-[11px] uppercase tracking-wider text-stone-600 mt-1">{s.l}</div>
           </div>
         ))}
       </section>
@@ -89,12 +89,12 @@ export default function Home() {
             <div className="kicker mb-1">Danes</div>
             <div className="font-medium text-sm">Flashcards — retrieval practice</div>
           </div>
-          <span className="text-stone-300 group-hover:translate-x-1 transition-transform">→</span>
+          <span className="text-stone-500 group-hover:translate-x-1 transition-transform">→</span>
         </Link>
         <Link to="/sources" className="card card-hover group !p-6">
           <div className="kicker mb-1">VIRI</div>
           <div className="font-medium text-sm">OHCHR · UPR · HUDOC · pogodbe</div>
-          <span className="text-stone-300">↗</span>
+          <span className="text-stone-500">↗</span>
         </Link>
       </section>
     </div>

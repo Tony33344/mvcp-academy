@@ -15,9 +15,9 @@ export interface CoreBlock { id: string; title: string; titleEn: string; points:
 export interface Topic { id: string; n: number; title: string; titleEn: string; status: string; legal: string; monitoring: string; problems: string; model: string; materials: string[] }
 export interface Comparison { id: string; title: string; rows: string[][] }
 export interface Flashcard { id: string; prompt: string; answer: string; kind: string; topics: string[]; authority: string; source?: string }
-export interface QuizQ { id: string; type: string; prompt: string; points: number; topics: string[]; answerOutline: string[]; provenance: string; officialStatus: string; mcq?: { options: string[]; correct: number } | null }
+export interface QuizQ { id: string; type: string; prompt: string; points: number; topics: string[]; answerOutline: string[]; provenance: string; officialStatus: string; keywords?: string[]; mcq?: { options: string[]; correct: number } | null }
 export interface Source { id: string; title: string; titleEn?: string; url: string; body: string; topics: string[] }
-export interface GreenBookEntry { topic: string; articles: string }
+export interface GreenBookEntry { topic: string; articles: string; inBook?: boolean; bookPages?: string; missingWarning?: string | null }
 export interface Exam { id: string; title: string; year: number; durationMin: number; questionIds: string[]; formatNote: string }
 export interface GlossaryItem { term: string; sl: string }
 export interface DocManifestItem { id: string; title: string; url: string; file: string; topics: string[]; authority: string }

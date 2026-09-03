@@ -46,9 +46,9 @@ export default function Flashcards() {
           </select>
         </div>
         <div className="flashcard text-center py-16 px-6">
-          <div className="font-display text-5xl text-stone-200 dark:text-stone-700 mb-4">✓</div>
+          <div className="font-display text-5xl text-stone-200 mb-4">✓</div>
           <p className="font-display text-xl">Vse ponovljeno.</p>
-          <p className="text-sm text-stone-400 mt-2">Skupaj {stats.total} kartic · {stats.due} zapadlih · seja: {sessionDone}</p>
+          <p className="text-sm text-stone-600 mt-2">Skupaj {stats.total} kartic · {stats.due} zapadlih · seja: {sessionDone}</p>
           <button onClick={loadQueue} className="btn mt-6">Osveži vrsto</button>
         </div>
       </div>
@@ -58,7 +58,7 @@ export default function Flashcards() {
   const grades: { g: Grade; label: string; cls: string }[] = [
     { g: 1, label: 'Ponovi', cls: 'bg-red-700 hover:bg-red-600' },
     { g: 2, label: 'Težko', cls: 'bg-stone-700 hover:bg-stone-600' },
-    { g: 3, label: 'Dobro', cls: 'bg-stone-900 hover:bg-stone-600 dark:bg-stone-100 dark:text-stone-900 dark:hover:bg-white' },
+    { g: 3, label: 'Dobro', cls: 'bg-stone-900 hover:bg-stone-600' },
     { g: 4, label: 'Znam', cls: 'bg-emerald-700 hover:bg-emerald-600' },
   ]
 
@@ -71,7 +71,7 @@ export default function Flashcards() {
           {topics.map(t => <option key={t.id} value={t.id}>{t.n}. {t.title}</option>)}
         </select>
       </div>
-      <div className="flex justify-between text-xs text-stone-400 tracking-wide">
+      <div className="flex justify-between text-xs text-stone-600 tracking-wide">
         <span>{idx + 1} / {queue.length}</span>
         <span>SEJA {sessionDone} · ZAPADLIH {stats.due}</span>
       </div>
@@ -80,8 +80,8 @@ export default function Flashcards() {
         <div className="kicker mb-4">{card.kind}{card.topics.length ? ` · ${card.topics.join(' · ')}` : ''}</div>
         <p className="font-display text-xl leading-snug">{card.prompt}</p>
         {revealed ? (
-          <div className="mt-6 pt-6 border-t border-stone-100 dark:border-stone-800">
-            <p className="text-[15px] leading-relaxed text-stone-700 dark:text-stone-200">{card.answer}</p>
+          <div className="mt-6 pt-6 border-t border-stone-100">
+            <p className="text-[15px] leading-relaxed text-stone-700">{card.answer}</p>
             <div className="mt-3"><ConfidenceBadge authority={card.authority} verification={card.source} /></div>
           </div>
         ) : (
@@ -98,7 +98,7 @@ export default function Flashcards() {
           ))}
         </div>
       )}
-      <p className="text-[11px] text-stone-400 text-center tracking-wide">1 PONOVI KMALU · 4 ZNAM — FSRS RAZPOREDE NASLEDNJI TERMIN</p>
+      <p className="text-[11px] text-stone-600 text-center tracking-wide">1 PONOVI KMALU · 4 ZNAM — FSRS RAZPOREDE NASLEDNJI TERMIN</p>
     </div>
   )
 }

@@ -70,8 +70,8 @@ export default function Progress() {
           { l: 'Teme ocenjene', v: mastery.length },
         ].map(s => (
           <div key={s.l} className="card text-center">
-            <div className="text-xl font-bold text-blue-600 dark:text-blue-400">{s.v}</div>
-            <div className="text-xs text-slate-500">{s.l}</div>
+            <div className="text-xl font-bold text-blue-600">{s.v}</div>
+            <div className="text-xs text-stone-600">{s.l}</div>
           </div>
         ))}
       </section>
@@ -79,7 +79,7 @@ export default function Progress() {
       <section className="card">
         <h2 className="font-semibold text-sm mb-3">Obvladanje tem (iz kvizov)</h2>
         {mastery.length === 0 ? (
-          <p className="text-sm text-slate-500">Še ni podatkov — reši nekaj vprašanj v Vadba → Vprašanja.</p>
+          <p className="text-sm text-stone-600">Še ni podatkov — reši nekaj vprašanj v Vadba → Vprašanja.</p>
         ) : (
           <div className="space-y-2">
             {mastery.map(m => {
@@ -88,13 +88,13 @@ export default function Progress() {
                 <div key={m.topicId} className="flex items-center gap-3">
                   <span className={`inline-block w-3 h-3 rounded-full ${levelColor(m.level)}`} aria-hidden />
                   <span className="text-sm flex-1">{t ? `${t.n}. ${t.title}` : m.topicId}</span>
-                  <span className="text-xs text-slate-500 capitalize">{m.level}</span>
+                  <span className="text-xs text-stone-600 capitalize">{m.level}</span>
                 </div>
               )
             })}
           </div>
         )}
-        <p className="text-xs text-slate-400 mt-2">🟢 ≥70 % · 🟡 40–70 % · 🔴 &lt;40 % — barva ni edini signal (besedilo + legenda).</p>
+        <p className="text-xs text-stone-600 mt-2">🟢 ≥70 % · 🟡 40–70 % · 🔴 &lt;40 % — barva ni edini signal (besedilo + legenda).</p>
       </section>
 
       <section className="card">
@@ -106,7 +106,7 @@ export default function Progress() {
             <input type="file" accept=".json" className="hidden" onChange={e => e.target.files?.[0] && doImport(e.target.files[0])} />
           </label>
         </div>
-        {msg && <p className="text-xs text-green-600 dark:text-green-400 mt-2">{msg}</p>}
+        {msg && <p className="text-xs text-green-600 mt-2">{msg}</p>}
       </section>
     </div>
   )
