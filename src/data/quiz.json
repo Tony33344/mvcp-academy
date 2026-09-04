@@ -55,20 +55,21 @@
  {
   "id": "q04",
   "type": "short",
-  "prompt": "Vincent: 5 elementov pravice — pojasni vsakega in poveži z varstvom ČP",
+  "prompt": "Benko: elementi strukture mednarodne skupnosti — kako so aktualni za varstvo ČP (za vsak element)",
   "points": 6,
   "topics": [
+   "benko",
    "koncept"
   ],
   "answerOutline": [
-   "subjekt (individualne/kolektivne)",
-   "objekt (do/pred)",
-   "uveljavljanje (paradoks posesti)",
-   "nosilec dolžnosti (država; Shue: 3 dolžnosti)",
-   "utemeljitev",
-   "uporaba na primeru"
+   "⚠️ MS = mednarodna skupnost po prof. Vladu Benku (NE Vincentovi elementi pravice!)",
+   "1. Dejavniki (okoliščine): demografski (migracije/begunci), geografski (okolje), kulturni (relativizem/azijske vrednote)",
+   "2. Subjekti/akterji: države (primarni zavezanci), IGOs (OZN, SE — norme in nadzor), NGOs (shadow reports), posamezniki (od objekta do subjekta prava)",
+   "3. Procesi in odnosi: sodelovanje (kodifikacija), konflikt (motor razvoja norm, napetost s suverenostjo), razvitost–nerazvitost (ekonomske pravice, razvoj)",
+   "4. Norme: pravno zavezujoče (pogodbe — legalnost) vs. politično zavezujoče (deklaracije, resolucije — legitimnost/soft law)",
+   "uspešnost režima ČP soodločajo vsi 4 elementi strukture MS"
   ],
-  "provenance": "1. rok 2025 + 1. rok 2026",
+  "provenance": "1. rok 2025 + 1. rok 2026 (6 točk)",
   "officialStatus": "pastRecall",
   "mcq": null
  },

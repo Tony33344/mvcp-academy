@@ -7,7 +7,7 @@ export default function Learn() {
       <div>
         <h1 className="text-xl font-bold">📚 Kurikulum — splošno učenje</h1>
         <p className="text-sm text-stone-600 mt-1">
-          10 modulov od koncepta do aktualnih dogodkov. Brez izpitnih oznak — za vse, ki jih zanima tema.
+          11 modulov od koncepta do aktualnih dogodkov. Brez izpitnih oznak — za vse, ki jih zanima tema.
         </p>
       </div>
 
