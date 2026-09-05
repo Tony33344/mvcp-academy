@@ -9,6 +9,7 @@ import greenbookData from '../data/greenbook.json'
 import examsData from '../data/exams.json'
 import glossaryData from '../data/glossary.json'
 import docsData from '../data/docs-manifest.json'
+import seminarsData from '../data/seminars.json'
 
 export interface Entity { id: string; type: string; typeSl: string; label: string; facts: string; authority: string }
 export interface CoreBlock { id: string; title: string; titleEn: string; points: number; body: string }
@@ -21,6 +22,7 @@ export interface GreenBookEntry { topic: string; articles: string; inBook?: bool
 export interface Exam { id: string; title: string; year: number; durationMin: number; questionIds: string[]; formatNote: string }
 export interface GlossaryItem { term: string; sl: string }
 export interface DocManifestItem { id: string; title: string; url: string; file: string; topics: string[]; authority: string }
+export interface Seminar { id: string; n: number; title: string; folder: string; convention: string; definition: string; omejitve: string; pomembnost: string; izzivi: string; primeri: string; studentWork: string[]; examQuestions: string[] }
 
 export const entities = entitiesData.entities as Entity[]
 export const entityEdges = entitiesData.edges as { source: string; target: string; relation: string; authority: string; note: string }[]
@@ -34,6 +36,7 @@ export const greenbook = greenbookData as GreenBookEntry[]
 export const exams = examsData as Exam[]
 export const glossary = glossaryData as GlossaryItem[]
 export const docsManifest = docsData as DocManifestItem[]
+export const seminars = seminarsData as Seminar[]
 
 export const entityById = Object.fromEntries(entities.map(e => [e.id, e]))
 export const topicById = Object.fromEntries(topics.map(t => [t.id, t]))

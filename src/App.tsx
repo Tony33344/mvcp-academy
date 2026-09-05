@@ -6,6 +6,7 @@ import Guide, { TopicDetail } from './pages/Guide'
 import GreenBook from './pages/GreenBook'
 import Simulator from './pages/Simulator'
 import Learn from './pages/Learn'
+import Seminars from './pages/Seminars'
 import Practice from './pages/Practice'
 import Flashcards from './pages/Flashcards'
 import Quiz from './pages/Quiz'
@@ -27,6 +28,7 @@ export default function App() {
         <Route path="/exam/green-book" element={<GreenBook />} />
         <Route path="/exam/simulator" element={<Simulator />} />
         <Route path="/learn" element={<Learn />} />
+        <Route path="/learn/seminars" element={<Seminars />} />
         <Route path="/practice" element={<Practice />} />
         <Route path="/practice/flashcards" element={<Flashcards />} />
         <Route path="/practice/quiz" element={<Quiz />} />

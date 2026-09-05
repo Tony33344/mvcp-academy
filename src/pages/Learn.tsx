@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import { core, comparisons } from '../lib/data'
 import Md from '../components/Md'
 
@@ -10,6 +11,14 @@ export default function Learn() {
           11 modulov od koncepta do aktualnih dogodkov. Brez izpitnih oznak — za vse, ki jih zanima tema.
         </p>
       </div>
+
+      <Link to="/learn/seminars" className="card card-hover !p-5 flex items-center justify-between group">
+        <div>
+          <div className="kicker mb-1">16 SEMINARSKIH NALOG</div>
+          <div className="font-medium text-sm">Seminarske naloge — pogodbe, členi, študentski izdelki, izpitna vprašanja</div>
+        </div>
+        <span className="text-stone-500 group-hover:translate-x-1 transition-transform">→</span>
+      </Link>
 
       <section className="space-y-3">
         <h2 className="font-semibold">Moduli</h2>
