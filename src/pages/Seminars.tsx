@@ -59,7 +59,7 @@ export default function Seminars() {
                   {topic && (
                     <div className="pt-3">
                       <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">Povezani pasport (izpitni bazen)</span>
-                      <p className="text-xs text-stone-600 dark:text-stone-300 mt-1">{topic.legal}</p>
+                      <div className="text-xs text-stone-600 dark:text-stone-300 mt-1"><Md>{topic.legal}</Md></div>
                     </div>
                   )}
 
@@ -72,28 +72,28 @@ export default function Seminars() {
 
                   <div>
                     <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">📖 Definicija (iz študentskega pasporta)</span>
-                    <p className="text-xs leading-relaxed mt-1 text-stone-800 dark:text-stone-200">{s.definition}</p>
+                    <div className="text-xs leading-relaxed mt-1 text-stone-800 dark:text-stone-200"><Md>{s.definition}</Md></div>
                   </div>
 
                   <div className="grid sm:grid-cols-2 gap-3">
                     <div>
                       <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">🚧 Omejitve</span>
-                      <p className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300">{s.omejitve}</p>
+                      <div className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300"><Md>{s.omejitve}</Md></div>
                     </div>
                     <div>
                       <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">💡 Pomembnost</span>
-                      <p className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300">{s.pomembnost}</p>
+                      <div className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300"><Md>{s.pomembnost}</Md></div>
                     </div>
                   </div>
 
                   <div>
                     <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">⚠️ Izzivi v implementaciji</span>
-                    <p className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300">{s.izzivi}</p>
+                    <div className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300"><Md>{s.izzivi}</Md></div>
                   </div>
 
                   <div>
                     <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">🌍 Primeri iz prakse</span>
-                    <p className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300">{s.primeri}</p>
+                    <div className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300"><Md>{s.primeri}</Md></div>
                   </div>
 
                   <div>
