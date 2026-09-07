@@ -22,7 +22,15 @@ export interface GreenBookEntry { topic: string; articles: string; inBook?: bool
 export interface Exam { id: string; title: string; year: number; durationMin: number; questionIds: string[]; formatNote: string }
 export interface GlossaryItem { term: string; sl: string }
 export interface DocManifestItem { id: string; title: string; url: string; file: string; topics: string[]; authority: string }
-export interface Seminar { id: string; n: number; title: string; folder: string; convention: string; definition: string; omejitve: string; pomembnost: string; izzivi: string; primeri: string; studentWork: string[]; examQuestions: string[] }
+export interface Seminar {
+  id: string; n: number; title: string; folderName: string; topicIds: string[];
+  convention: string; definition: string; omejitve: string; pomembnost: string;
+  izzivi: string; primeri: string;
+  extraSections: Record<string, string>;
+  studentWorkFile: string | null; essay: string | null; files: string[];
+  studentWorkSummary: string | null; articleSummary: string | null;
+  derivedSections?: Record<string, string> | null;
+}
 
 export const entities = entitiesData.entities as Entity[]
 export const entityEdges = entitiesData.edges as { source: string; target: string; relation: string; authority: string; note: string }[]
@@ -36,7 +44,7 @@ export const greenbook = greenbookData as GreenBookEntry[]
 export const exams = examsData as Exam[]
 export const glossary = glossaryData as GlossaryItem[]
 export const docsManifest = docsData as DocManifestItem[]
-export const seminars = seminarsData as Seminar[]
+export const seminars = (seminarsData as unknown) as Seminar[]
 
 export const entityById = Object.fromEntries(entities.map(e => [e.id, e]))
 export const topicById = Object.fromEntries(topics.map(t => [t.id, t]))

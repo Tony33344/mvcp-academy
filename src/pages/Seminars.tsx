@@ -1,127 +1,157 @@
-import { useState, useMemo } from 'react'
-import { seminars, topicById } from '../lib/data'
-import Md from '../components/Md'
+import { Link, useParams } from 'react-router-dom'
+import { seminars, topics } from '../lib/data'
+
+const SECTIONS = [
+  { key: "convention", icon: "⚖️", label: "Pravna podlaga — pogodba in točni členi" },
+  { key: "definition", icon: "📖", label: "Definicija (iz študentskega pasporta)" },
+  { key: "omejitve", icon: "🚧", label: "Omejitve" },
+  { key: "pomembnost", icon: "💡", label: "Pomembnost" },
+  { key: "izzivi", icon: "⚠️", label: "Izzivi v implementaciji" },
+  { key: "primeri", icon: "🌍", label: "Primeri iz prakse" },
+] as const
+
+function Content({ text }: { text: string }) {
+  const lines = text.split("\n").map(l => l.trim()).filter(Boolean)
+  const bulletish = lines.filter(l => /^[-•*·]/.test(l)).length
+  if (bulletish >= 2) {
+    return (
+      <ul className="space-y-1.5">
+        {lines.map((l, i) => (
+          <li key={i} className="text-sm leading-relaxed text-stone-800 flex gap-2">
+            <span className="text-stone-400 shrink-0">—</span>
+            <span>{l.replace(/^[-•*·]\s*/, "")}</span>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+  return <p className="text-sm leading-relaxed text-stone-800 whitespace-pre-line">{text}</p>
+}
 
 export default function Seminars() {
-  const [open, setOpen] = useState<string | null>(null)
-  const [search, setSearch] = useState('')
-
-  const filtered = useMemo(() => {
-    if (!search.trim()) return seminars
-    const q = search.toLowerCase()
-    return seminars.filter(s =>
-      s.title.toLowerCase().includes(q) ||
-      s.convention.toLowerCase().includes(q) ||
-      s.definition.toLowerCase().includes(q) ||
-      s.primeri.toLowerCase().includes(q)
-    )
-  }, [search])
-
   return (
-    <div className="space-y-6">
+    <div className="space-y-8">
       <div>
-        <div className="kicker mb-2">SEMINARJI &amp; SKUPINSKE RAZISKAVE — VIR IZPITNIH VPRAŠANJ</div>
-        <h1 className="font-display text-3xl font-semibold tracking-tight">📄 16 seminarskih nalog — integrirano</h1>
-        <p className="text-sm text-stone-600 dark:text-stone-400 mt-2 leading-relaxed">
-          Vsaka seminarska naloga iz mape <em>clankiseminarsk enaloge</em> v enem mestu: pogodba in točni členi,
+        <div className="kicker mb-2">VIR IZPITNIH VPRAŠANJ</div>
+        <h1 className="font-display text-3xl font-semibold tracking-tight">Seminarji & skupinske raziskave</h1>
+        <p className="text-sm text-stone-600 mt-2 leading-relaxed max-w-2xl">
+          Vseh 16 seminarskih nalog iz mape <em>clankiseminarske naloge</em> v enem mestu: pogodba in točni členi,
           definicija, omejitve, izzivi v implementaciji, primeri iz prakse, študentski pisni izdelki (pasporti)
-          in povezava na izpitna vprašanja. Izpitna vprašanja prihajajo tudi od tu!
+          in povezava na izpitna vprašanja. <strong>Izpitna vprašanja prihajajo tudi od tu!</strong>
         </p>
       </div>
 
-      <input
-        type="text"
-        className="input"
-        placeholder="Išči po vseh 16 nalogah (npr. 'CAT', 'dolus specialis', 'Aarhuška')…"
-        value={search}
-        onChange={e => setSearch(e.target.value)}
-      />
-
-      <div className="space-y-2.5">
-        {filtered.map(s => {
-          const topic = topicById[s.id]
-          const isOpen = open === s.id
+      <div className="grid sm:grid-cols-2 gap-2">
+        {seminars.map(s => {
+          const t = topics.find(x => x.id === s.topicIds[0])
+          const hasPassport = !!s.convention
           return (
-            <div key={s.id} className="card !p-0 overflow-hidden">
-              <button
-                onClick={() => setOpen(isOpen ? null : s.id)}
-                className="w-full text-left px-4 py-3.5 flex items-center justify-between gap-3 hover:bg-stone-50 dark:hover:bg-stone-900/40 transition-colors"
-              >
-                <span className="flex items-baseline gap-3 min-w-0">
-                  <span className="font-mono text-xs text-stone-400 shrink-0 w-6">{s.n}.</span>
-                  <span className="text-sm font-semibold leading-snug">{s.title}</span>
-                </span>
-                <span className="text-stone-400 text-xs shrink-0">{isOpen ? '▲' : '▼'}</span>
-              </button>
-
-              {isOpen && (
-                <div className="px-4 pb-5 pt-1 space-y-4 border-t border-stone-100 dark:border-stone-800">
-                  {topic && (
-                    <div className="pt-3">
-                      <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">Povezani pasport (izpitni bazen)</span>
-                      <div className="text-xs text-stone-600 dark:text-stone-300 mt-1"><Md>{topic.legal}</Md></div>
-                    </div>
-                  )}
-
-                  <div>
-                    <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">⚖️ Pravna podlaga — pogodba in točni členi</span>
-                    <div className="mt-1 text-xs leading-relaxed bg-stone-50 dark:bg-stone-900/50 p-3 rounded border border-stone-200 dark:border-stone-800">
-                      <Md>{s.convention}</Md>
-                    </div>
-                  </div>
-
-                  <div>
-                    <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">📖 Definicija (iz študentskega pasporta)</span>
-                    <div className="text-xs leading-relaxed mt-1 text-stone-800 dark:text-stone-200"><Md>{s.definition}</Md></div>
-                  </div>
-
-                  <div className="grid sm:grid-cols-2 gap-3">
-                    <div>
-                      <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">🚧 Omejitve</span>
-                      <div className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300"><Md>{s.omejitve}</Md></div>
-                    </div>
-                    <div>
-                      <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">💡 Pomembnost</span>
-                      <div className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300"><Md>{s.pomembnost}</Md></div>
-                    </div>
-                  </div>
-
-                  <div>
-                    <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">⚠️ Izzivi v implementaciji</span>
-                    <div className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300"><Md>{s.izzivi}</Md></div>
-                  </div>
-
-                  <div>
-                    <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">🌍 Primeri iz prakse</span>
-                    <div className="text-xs leading-relaxed mt-1 text-stone-700 dark:text-stone-300"><Md>{s.primeri}</Md></div>
-                  </div>
-
-                  <div>
-                    <span className="text-[10px] uppercase tracking-wider text-stone-400 font-semibold">📚 Študentski pisni izdelki (mapa seminarskih nalog)</span>
-                    <ul className="text-xs mt-1 space-y-1">
-                      {s.studentWork.map((w, i) => (
-                        <li key={i} className="text-stone-600 dark:text-stone-400 font-mono">— {w}</li>
-                      ))}
-                    </ul>
-                  </div>
-
-                  <div className="p-3 bg-red-50/60 dark:bg-red-950/20 rounded border border-red-200 dark:border-red-900/40">
-                    <span className="text-[10px] uppercase tracking-wider text-red-700 dark:text-red-300 font-semibold">🎯 Povezava na izpitna vprašanja</span>
-                    <ul className="text-xs mt-1.5 space-y-1">
-                      {s.examQuestions.map((q, i) => (
-                        <li key={i} className="text-red-800 dark:text-red-200 leading-relaxed">→ {q}</li>
-                      ))}
-                    </ul>
+            <Link key={s.n} to={`/learn/seminars/${s.n}`} className="card card-hover !p-0 overflow-hidden block">
+              <div className="flex items-center">
+                <div className="w-14 shrink-0 text-center py-4 border-r border-stone-200 font-display text-stone-400 font-semibold">
+                  {String(s.n).padStart(2, "0")}
+                </div>
+                <div className="px-4 py-3 flex-1">
+                  <div className="font-medium text-sm leading-snug">{t ? t.title : s.title.replace(/^\d+\.\s*/, "")}</div>
+                  <div className="text-[11px] text-stone-500 mt-0.5">
+                    {hasPassport ? `📋 pasport · ${s.files.length} datotek` : `📄 seminarska naloga · ${s.files.length} datotek`}
                   </div>
                 </div>
-              )}
-            </div>
+              </div>
+            </Link>
           )
         })}
-        {filtered.length === 0 && (
-          <div className="card text-center text-stone-400 text-sm py-8">Ni zadetkov za "{search}".</div>
-        )}
       </div>
     </div>
+  )
+}
+
+export function SeminarDetail() {
+  const { folder } = useParams()
+  const s = seminars.find(x => x.n === Number(folder))
+  if (!s) return <p>Seminar ni najden.</p>
+  const t = topics.find(x => x.id === s.topicIds[0])
+  const mainSections = SECTIONS.filter(sec => s[sec.key])
+  const extras = Object.entries(s.extraSections ?? {})
+
+  return (
+    <article className="space-y-6">
+      <div>
+        <Link to="/learn/seminars" className="text-xs text-stone-500 hover:text-stone-900">← Vsi seminarji</Link>
+        <div className="kicker mt-3 mb-1">SEMINARSKA NALOGA {String(s.n).padStart(2, "0")}</div>
+        <h1 className="font-display text-3xl font-semibold tracking-tight leading-tight">
+          {t ? t.title : s.title.replace(/^\d+\.\s*/, "")}
+        </h1>
+        <p className="text-xs text-stone-500 mt-1">Mapa: {s.folderName}</p>
+      </div>
+
+      {s.studentWorkSummary && (
+        <section className="card !p-5 border-l-4 border-l-blue-600">
+          <h2 className="font-semibold text-sm mb-2">📚 Povzetek študentskega dela</h2>
+          <p className="text-sm leading-relaxed text-stone-800">{s.studentWorkSummary}</p>
+        </section>
+      )}
+
+      {s.articleSummary && (
+        <section className="card !p-5 border-l-4 border-l-purple-600">
+          <h2 className="font-semibold text-sm mb-2">📄 Povzetek znanstvenega članka</h2>
+          <p className="text-sm leading-relaxed text-stone-800">{s.articleSummary}</p>
+        </section>
+      )}
+
+      {mainSections.length > 0 && (
+        <div className="space-y-4">
+          {mainSections.map(sec => (
+            <section key={sec.key} className="card !p-5">
+              <h2 className="font-semibold text-sm mb-2">{sec.icon} {sec.label}</h2>
+              <Content text={s[sec.key]} />
+            </section>
+          ))}
+          {extras.map(([k, v]) => (
+            <section key={k} className="card !p-5">
+              <h2 className="font-semibold text-sm mb-2">📌 {k}</h2>
+              <Content text={v} />
+            </section>
+          ))}
+        </div>
+      )}
+
+      {s.essay && (
+        <section className="card !p-6">
+          <h2 className="font-semibold text-sm mb-3">📄 Študentska seminarska naloga{s.studentWorkFile ? ` (${s.studentWorkFile})` : ""}</h2>
+          <p className="text-sm leading-relaxed text-stone-800 whitespace-pre-line">{s.essay}</p>
+          <p className="text-xs text-stone-400 mt-3">⚠️ Izvleček — celotno delo v mapi seminarskih nalog.</p>
+        </section>
+      )}
+
+      {mainSections.length === 0 && !s.essay && (
+        <div className="card !p-5 border-amber-300 bg-amber-50/50">
+          <p className="text-sm text-stone-700">⚠️ Pasport za to temo ni bil mogoče avtomatsko izlužiti — uporabi datoteke iz korpusa spodaj.</p>
+        </div>
+      )}
+
+      <section className="card !p-5">
+        <h2 className="font-semibold text-sm mb-3">📚 Študentski pisni izdelki in gradiva ({s.files.length})</h2>
+        <ul className="text-xs space-y-1.5">
+          {s.files.map(f => (
+            <li key={f} className="flex items-center gap-2 text-stone-700">
+              <span className="text-stone-400">{f.endsWith(".docx") ? "📝" : /članek|clanek|article|Declaration|Schrijver|Klabbers|Castellino|walz/i.test(f) ? "📄" : "📕"}</span>
+              <span className="font-mono">{f}</span>
+              {s.studentWorkFile === f && <span className="badge bg-blue-100 text-blue-800 text-[10px]">izluženo zgoraj</span>}
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="card !p-5 border-blue-300 bg-blue-50/40">
+        <h2 className="font-semibold text-sm mb-2">🎯 Povezava na izpitna vprašanja</h2>
+        <p className="text-xs text-stone-600 mb-3">Izpitna vprašanja prihajajo tudi iz te seminarske naloge. Vadba za to temo:</p>
+        <div className="flex flex-wrap gap-2">
+          <Link to="/practice/quiz" className="btn !py-2 !px-3 text-xs">📝 Vprašanja</Link>
+          <Link to="/practice/flashcards" className="btn-ghost !py-2 !px-3 text-xs">⚡ Flashcards</Link>
+          {t && <Link to={`/exam/guide/${t.id}`} className="btn-ghost !py-2 !px-3 text-xs">📖 Pasport v vodniku</Link>}
+        </div>
+      </section>
+    </article>
   )
 }
